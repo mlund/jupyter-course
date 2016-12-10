@@ -18,10 +18,23 @@
 
 ## Course Evaluation
 
-Each student will make a Notebook around their own research, reproducing figures and data
-    in a scientific paper you have published or working on.
-    This can act as Supporting Information (SI) when publishing.
-  The is peer-reviewed by two other participants and the final Notebook will be presented to the class.
+Each student will make a Notebook with either
+
+1. their own research, presenting data analysis and theory behind
+   a manuscript or published paper. The Notebook should be written
+   such that it could act as supporting information (SI) for a journal.
+   
+2. or a Notebook presenting a text-book topic of choice and aimed at students.
+   The notebook should include rich documentation and preferably interactive
+   graphs.
+
+The Notebook is peer-reviewed by two other course participants and the final Notebook
+will be presented to the class.
+This means that each student will peer-review two Notebook and should check that,
+
+- the notebook is properly docmented and easy to follow
+- that all graphs are polished and publication ready
+- ...
 
 ## Important dates
 
