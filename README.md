@@ -1,9 +1,11 @@
-# Computational Notebooks for Scientists
+# Interactive Data Exploration for Scientists
 
 ## Syllabus
 
 
 ## Program
+
+All lectures are available on this site in the [lectures](lectures) folder on this Github repository and are in Notebook format.
 
 - Lecture 1. Introduction
   - Introduction and overview of Jupyter notebooks
@@ -23,6 +25,12 @@
   - Symbolic math (`sympy`)
   - Working with large datasets (`pandas`)
   - Calling C/C++/fortran routines
+
+## Prerequisites
+
+- No prior knowledge in Python is required, but familiarity with
+programming concepts is helpful.
+- A laptop running Unix, MacOS, or Windows.
 
 ## Course Evaluation
 
