@@ -1,8 +1,10 @@
 # Interactive Data Exploration for Scientists
 
+## Notes from meeting Dec. 12, 2016.
+
+- Reproducibility, sharing, "software carpentry", Lunarc?, quality check on evaluation, guest, lecturer, MOOC. 4 HP, 2x80kkr per 7.5HP., "root" language, HT2 2017.
+
 ## Syllabus
-
-
 
 ## Program
 
@@ -12,7 +14,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Introduction and overview of Jupyter notebooks
   - Installation and package management
   - Documenting using Markdown: rich text, equations, images, tables.
-  - Other languages (bash, R, ruby, ...)
+  - Other languages (bash, R, ruby, root...)
   - Online resources and getting help
   
 - Lecture 2. Plotting
@@ -41,7 +43,7 @@ The evaluation consists of three steps:
 
   - their own research, presenting data analysis and theory behind
     a manuscript or published paper. The Notebook should be written
-    such that it could act as supporting information (SI) for a journal.
+    such that it can act as supporting information (SI) for a journal.
    
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     The notebook should include rich documentation, use interactive graphs, and
