@@ -6,6 +6,10 @@
 
 ## Syllabus
 
+## Credits
+
+4 ECTS.
+
 ## Program
 
 Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
@@ -28,6 +32,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Symbolic math (`sympy`)
   - Working with large datasets (`pandas`)
   - Calling C/C++/fortran routines
+  - Interfacing with clusters (LUNARC)
 
 ## Prerequisites
 
