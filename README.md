@@ -1,13 +1,16 @@
 # Interactive Data Exploration for Scientists
-
-## Notes from meeting Dec. 12, 2016.
-
-- Reproducibility, sharing, "software carpentry", Lunarc?, quality check on evaluation, guest, lecturer, MOOC. 4 HP, 2x80kkr per 7.5HP., "root" language, HT2 2017.
+# Electronic Notebooks for Reproducible Data Analysis for Scientists
+# Structured Data Analysis for Reproducible Science
+# Data Analysis Workflow for Reproducible Science
+# Transparent Science through Reproducible Data Analysis
+# Jupyter Notebooks for Reproducible and Interactive Data Analysis
+# Reproducible and Interactive Data Science
 
 ## Syllabus
 
 The aim of this course is to introduce students to the [Jupyter Notebook](http://jupyter.org) which
 is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more. Through the notebooks, research results and the underlying analysis can be transparently reproduced as well as shared.
+As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett._, see [here.](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb)
 
 During three days with alternating lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
 While the course is based on Python, this is not a prerequisite, and many other programming languages can be used.
@@ -26,7 +29,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Installation and package management (Anaconda, environments)
   - Documenting using Markdown: rich text, equations, images, tables.
   - Other languages (bash, R, ruby, perl...)
-  - Sharing, online viewing, conversion (Github, Binder, NBviewer, NBconvert)
+  - Sharing, online viewing, conversion, version control (Github, Binder, NBviewer, NBconvert, Zenodo)
   - Online resources and getting help
   
 - Day 2. Plotting and visualization
@@ -60,10 +63,11 @@ The evaluation consists of three steps:
   - research, presenting data analysis and theory behind
     a manuscript or published paper. The Notebook should be written
     such that it can act as supporting information (SI) for a journal.
+    Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
    
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     The notebook should include rich documentation, use interactive graphs, and
-    numerical methods.
+    numerical methods. Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
 
 2. A peer-review process where each student review and comment on two other notebooks.
 
