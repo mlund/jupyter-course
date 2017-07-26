@@ -7,7 +7,7 @@ is an open-source web application that allows you to create and share documents 
 As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett._, see [here.](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb)
 
 During three days with alternating lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
-While the course is based on Python, this is not a prerequisite, and many other programming languages can in fact be used.
+While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can in fact be used.
 
 ## Credits
 
