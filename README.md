@@ -7,7 +7,7 @@ is an open-source web application that allows you to create and share documents 
 As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett._, see [here.](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb)
 
 During three days with alternating lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
-While the course is based on Python, this is not a prerequisite, and many other programming languages can be used.
+While the course is based on Python, this is not a prerequisite, and many other programming languages can in fact be used.
 
 ## Credits
 
@@ -15,30 +15,30 @@ While the course is based on Python, this is not a prerequisite, and many other 
 
 ## Program
 
-The course consists of four full days: three combined lectures and exercises, and one day of project presentations.
+The course consists of four full days: three with alternating lectures and hands-on exercises, and one day with project presentations.
 Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
   - Introduction and overview of Jupyter notebooks
-  - Installation and package management (Anaconda, environments)
+  - Installation and package management (Anaconda, managing environments)
   - Documenting using Markdown: rich text, equations, images, tables.
-  - Other languages (bash, R, ruby, perl...)
-  - Sharing, online viewing, conversion, version control (Github, Binder, NBviewer, NBconvert, Zenodo)
+  - Other languages (bash, R, ruby, perl, etc.)
+  - Online viewing, conversion, sharing, version control (Github, Binder, NBviewer, NBconvert, Zenodo)
   - Online resources and getting help
   
 - Day 2. Plotting and visualization
-  - Plotting in Notebooks (Matplotlib, Bokeh, Seaborn)
+  - Plotting in Notebooks (`matplotlib`, `seaborn`)
   - Arranging plots, customizing
-  - Making plots publication ready.
+  - Making plots publication ready
   - Exporting to vectorized file formats
-  - Interactive visialization (ipywidgets, bokeh)
+  - Interactive visialization (`ipywidgets`, `bokeh`)
   
 - Day 3. Numerical methods and data science
   - Numerical and scientific python (`numpy`, `scipy`)
   - Symbolic math (`sympy`)
   - Data parsing and import (csv, excel, json, pickle, pdf, custom files, etc.)
   - Working with large datasets (`pandas`)
-  - Calling C/C++/fortran routines
+  - Calling C/C++/fortran routines; Cython.
   - Interfacing with clusters (LUNARC)
 
 - Day 4. Project presentations
@@ -63,6 +63,6 @@ The evaluation consists of three steps:
     The notebook should include rich documentation, use interactive graphs, and
     numerical methods. Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
 
-2. A peer-review process where each student review and comment on two other notebooks.
+2. A peer-review process where each student reviews and comments on two other notebooks.
 
 3. Notebook presentation to the class (day 4)
