@@ -1,9 +1,3 @@
-# Interactive Data Exploration for Scientists
-# Electronic Notebooks for Reproducible Data Analysis for Scientists
-# Structured Data Analysis for Reproducible Science
-# Data Analysis Workflow for Reproducible Science
-# Transparent Science through Reproducible Data Analysis
-# Jupyter Notebooks for Reproducible and Interactive Data Analysis
 # Reproducible and Interactive Data Science
 
 ## Syllabus
