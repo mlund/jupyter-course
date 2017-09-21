@@ -7,13 +7,15 @@ is an open-source web application that allows you to create and share documents 
 As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett._, see [here.](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb)
 
 During three days with alternating lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
-While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can in fact be used.
+While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can be used.
 
 ## Credits
 
 4 ECTS.
 
 ## Program
+
+_Lectures on **December 13-15, 2017** and project presentations: **January 5th, 2018**_
 
 The course consists of four full days: three with alternating lectures and hands-on exercises, and one day with project presentations.
 Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
@@ -27,7 +29,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Online resources and getting help
   
 - Day 2. Plotting and visualization
-  - Plotting in Notebooks (`matplotlib`, `seaborn`)
+  - Plotting in Notebooks (`matplotlib`, `seaborn`, `root`)
   - Arranging plots, customizing
   - Making plots publication ready
   - Exporting to vectorized file formats
@@ -46,7 +48,19 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
-- A laptop running Unix, MacOS, or Windows.
+- A laptop running Unix, MacOS, or Windows
+
+If you have little experience with Python or shell programming, the following two tutorials may be helpful:
+
+- https://swcarpentry.github.io/shell-novice/
+- https://swcarpentry.github.io/python-novice-inflammation/
+
+
+## Preparations before the first lecture
+
+1. Install [Anaconda 3.x](https://www.anaconda.com/download) on your laptop.
+2. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml).
+   To do so, follow these [instructions](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
 ## Evaluation
 
