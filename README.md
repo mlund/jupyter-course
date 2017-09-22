@@ -52,15 +52,20 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
-- https://swcarpentry.github.io/shell-novice/
-- https://swcarpentry.github.io/python-novice-inflammation/
+- https://swcarpentry.github.io/shell-novice
+- https://swcarpentry.github.io/python-novice-inflammation
 
 
 ## Preparations before the first lecture
 
 1. Install [Anaconda 3.x](https://www.anaconda.com/download) on your laptop.
-2. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml).
-   To do so, follow these [instructions](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+2. Using Anaconda, install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml):
+
+   ```bash
+   conda env create -f environment.yml
+   source activate LUcompute
+   ```
+   (See instructions for Windows [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)).
 
 ## Evaluation
 
