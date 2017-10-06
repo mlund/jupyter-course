@@ -15,7 +15,7 @@ While the course is based on Python, this is not a prerequisite, and many [other
 
 ## Program
 
-_Lectures on **December 13-15, 2017** and project presentations: **January 5th, 2018**_
+_Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_. All dates from 10:15 to 15:00.
 
 The course consists of four full days: three with alternating lectures and hands-on exercises, and one day with project presentations.
 Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
