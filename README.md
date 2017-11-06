@@ -48,7 +48,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
-- A laptop running Unix, MacOS, or Windows
+- A laptop running Unix, MacOS, or Windows and with Anaconda installed, see below.
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
