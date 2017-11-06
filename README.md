@@ -13,7 +13,7 @@ While the course is based on Python, this is not a prerequisite, and many [other
 
 4 ECTS.
 
-## Program
+## _Preliminary_ Program
 
 _Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_. All dates from 10:15 to 15:00.
 
