@@ -64,24 +64,42 @@ If you have little experience with Python or shell programming, the following tw
    ```bash
    conda env create -f environment.yml
    source activate LUcompute
+   jupyter nbextension enable rubberband/main
+   jupyter nbextension enable exercise2/main
    ```
    (See instructions for Windows [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)).
 
-## Evaluation
+## Project Work
 
-The evaluation consists of three steps:
+The project work consists of three steps:
 
 1. Each student will make a Notebook project covering topics from day 1-3 with either
 
   - research, presenting data analysis and theory behind
-    a manuscript or published paper. The Notebook should be written
+    a manuscript or published paper. The Notebook should ideally be written
     such that it can act as supporting information (SI) for a journal.
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
    
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
-    The notebook should include rich documentation, use interactive graphs, and
-    numerical methods. Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
+    Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
 
-2. A peer-review process where each student reviews and comments on two other notebooks.
-
+2. A peer-review process where each student reviews and comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements. Please email your review to the notebook creator before day 4 and CC the instructors.
+ 
 3. Notebook presentation to the class (day 4)
+
+### Notebook Requirements
+
+The project notebook _must_:
+
+- [ ] contain name and contact information of the author
+- [ ] include rich documentation using Markdown, equations, tables, links, etc.
+- [ ] import or generate data. If generating, data should be exported to disk.
+- [ ] perform data operations using `numpy`, `scipy`, `pandas` or equivalent.
+- [ ] create plots of _publication ready_ quality. For an editorial guide on _Graphical Excellence_, see [here.](http://dx.doi.org/10/cg2g)
+- [ ] include instructions on how to run the notebook, include the required packages. This could be an `environment.yml` file.
+
+The project notebook _could_:
+
+- [ ] be placed on github
+- [ ] act as supporting information for an article
+- [ ] have an digital object identifyer (DOI)
