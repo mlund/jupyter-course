@@ -59,7 +59,8 @@ If you have little experience with Python or shell programming, the following tw
 ## Preparations before the first lecture
 
 1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
-2. install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in a terminal:
+2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
+3. install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in a terminal:
 
    ```bash
    conda env create -f environment.yml
