@@ -11,3 +11,5 @@ dependencies:
     - matplotlib=2.0.2
     - notebook=5.0.0
     - widgetsnbextension=3.0.2
+    - jupyter_contrib_nbextensions=0.3.3
+    - jupyter_nbextensions_configurator=0.2.8
