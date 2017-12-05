@@ -13,7 +13,7 @@ While the course is based on Python, this is not a prerequisite, and many [other
 
 4 ECTS.
 
-## _Preliminary_ Program
+## _Preliminary_ Program (final version available on Friday 8th of December)
 
 _Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_. All dates from 10:15 to 15:00.
 
@@ -27,6 +27,8 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Other languages (bash, R, ruby, perl, etc.)
   - Online viewing, conversion, sharing, version control (Github, Binder, NBviewer, NBconvert, Zenodo)
   - Online resources and getting help
+  - Calling C/C++/fortran routines; Cython.
+  - Interfacing with clusters (LUNARC)
   
 - Day 2. Plotting and visualization
   - Plotting in Notebooks (`matplotlib`, `seaborn`, `root`)
@@ -40,8 +42,6 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Symbolic math (`sympy`)
   - Data parsing and import (csv, excel, json, pickle, pdf, custom files, etc.)
   - Working with large datasets (`pandas`)
-  - Calling C/C++/fortran routines; Cython.
-  - Interfacing with clusters (LUNARC)
 
 - Day 4. Project presentations
 
