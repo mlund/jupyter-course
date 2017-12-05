@@ -58,8 +58,8 @@ If you have little experience with Python or shell programming, the following tw
 
 ## Preparations before the first lecture
 
-1. Install [Anaconda 3.x](https://www.anaconda.com/download) on your laptop.
-2. Using Anaconda, install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in a terminal:
+1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
+2. install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in a terminal:
 
    ```bash
    conda env create -f environment.yml
