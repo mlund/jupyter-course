@@ -84,9 +84,9 @@ The project work consists of three steps:
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
 
-2. A peer-review process where each student reviews and comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements. Please email your review to the notebook creator before day 4 and CC the instructors.
+2. A peer-review process where each student reviews and comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements.
  
-3. Notebook presentation to the class (day 4)
+3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your answer to the referee reports.
 
 ### Notebook Requirements
 
@@ -101,6 +101,5 @@ The project notebook _must_:
 
 The project notebook _could_:
 
-- [ ] be placed on github
 - [ ] act as supporting information for an article
-- [ ] have an digital object identifyer (DOI)
+- [ ] have an digital object identifier (DOI)
