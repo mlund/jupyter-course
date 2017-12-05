@@ -48,7 +48,7 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
-- A laptop running Unix, MacOS, or Windows and with Anaconda installed, see below.
+- A laptop connected to the internet (eduroam, for example) and running Unix, MacOS, or Windows and with Anaconda installed, see below.
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
@@ -56,7 +56,7 @@ If you have little experience with Python or shell programming, the following tw
 - https://swcarpentry.github.io/python-novice-inflammation
 
 
-## Preparations before the first lecture
+## Preparations _before_ the first lecture
 
 1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
 2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
