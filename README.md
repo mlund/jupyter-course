@@ -72,7 +72,7 @@ Instructions for Windows:
 1. Install [miniconda3](https://conda.io/miniconda.html).
 2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
 3. Open the `anaconda prompt` from the start menu.
-4. Navigate to the folder where the course material has been unzipped: use `cd` to change directory and `dir` to list files in a folder.
+4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory and `dir` to list files in a folder).
 5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in the `anaconda prompt`:
 
    ```bash
