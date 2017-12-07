@@ -71,9 +71,9 @@ If you have little experience with Python or shell programming, the following tw
 Instructions for Windows: 
 1. Install [miniconda3](https://conda.io/miniconda.html).
 2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
-3. Open the `anaconda` `prompt` from the start menu.
-4. Navigate to the folder where the course material has been unzipped--use `cd` to change directory and `dir` to list files in a folder.
-5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in the `anaconda` `prompt`:
+3. Open the `anaconda prompt` from the start menu.
+4. Navigate to the folder where the course material has been unzipped: use `cd` to change directory and `dir` to list files in a folder.
+5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in the `anaconda prompt`:
 
    ```bash
    conda env create -f environment.yml
@@ -81,7 +81,7 @@ Instructions for Windows:
    jupyter nbextension enable rubberband/main
    jupyter nbextension enable exercise2/main
    ```
-[Further information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+[Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
 ## Project Work
 
