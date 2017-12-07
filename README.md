@@ -23,12 +23,11 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
 - Day 1. Introduction
   - Introduction and overview of Jupyter notebooks
   - Installation and package management (Anaconda, managing environments)
-  - Documenting using Markdown: rich text, equations, images, tables.
-  - Other languages (bash, R, ruby, perl, etc.)
-  - Online viewing, conversion, sharing, version control (Github, Binder, NBviewer, NBconvert, Zenodo)
+  - Navigating cells and iPython "Magic" commands
   - Online resources and getting help
-  - Calling C/C++/fortran routines; Cython.
-  - Interfacing with clusters (LUNARC)
+  - Documenting using Markdown: rich text, equations, images, tables, video.
+  - Other languages (bash, cython, R, etc.)
+  - Online viewing, conversion, sharing, version control (Github, Zenodo, Binder, NBviewer)
   
 - Day 2. Plotting and visualization
   - Plotting in Notebooks (`matplotlib`, `seaborn`, `root`)
