@@ -23,8 +23,8 @@ All dates from 10:15 to 15:00.
 **Location:** Sölvegatan 27 (The observatory), Department of Astronomy and Theoretical Physics,
 Rooms _Cassiopeia_ (Monday morning; Thursday afternoon; and all Friday) or _Andromeda_.
 
-The course consists of four full days: three with alternating lectures and hands-on exercises, and one day with project presentations.
-Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
+The course consists of four full days: three with alternating lectures and hands-on exercises, and one
+day with project presentations. Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
   - Introduction and overview of Jupyter notebooks
@@ -62,11 +62,14 @@ If you have little experience with Python or shell programming, the following tw
 - https://swcarpentry.github.io/python-novice-inflammation
 
 
-## Preparations _before_ the first lecture
+## Preparations before the first lecture
 
-1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
-2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
-3. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in a terminal:
+1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
+   [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
+2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
+   (this github repository) and unzip.
+3. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+   by running the following in a terminal:
 
    ```bash
    conda env create -f environment.yml
@@ -77,10 +80,13 @@ If you have little experience with Python or shell programming, the following tw
    ```
 Instructions for Windows: 
 1. Install [miniconda3](https://conda.io/miniconda.html).
-2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository) and unzip.
+2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository)
+   and unzip.
 3. Open the `anaconda prompt` from the start menu.
-4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory and `dir` to list files in a folder).
-5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml) by running the following in the `anaconda prompt`:
+4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
+   and `dir` to list files in a folder).
+5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+   by running the following in the `anaconda prompt`:
 
    ```bash
    conda env create -f environment.yml
@@ -104,10 +110,12 @@ The project work consists of three steps:
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
   - **Deadline for project: 27/12**
 
-2. A peer-review process where each student reviews and, in writing, comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements.
-**Deadline for review: 3/1**
+2. A peer-review process where each student reviews and, in writing, comments on _two_ other notebooks.
+   The review should be based on the criteria listed below and for each point, include specific
+   suggestions for improvements. **Deadline for review: 3/1**
  
-3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your answer to the referee reports.
+3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your
+   answer to the referee reports.
 
 ### Notebook Requirements
 
@@ -117,8 +125,10 @@ The project notebook _must_:
 - [ ] include rich documentation using Markdown, equations, tables, links, etc.
 - [ ] import or generate data. If generating, data should be exported to disk.
 - [ ] perform data operations using `numpy`, `scipy`, `pandas` or equivalent.
-- [ ] create plots of _publication ready_ quality. For an editorial guide on _Graphical Excellence_, see [here.](http://dx.doi.org/10/cg2g)
-- [ ] include instructions on how to run the notebook, include the required packages. This could be an `environment.yml` file.
+- [ ] create plots of _publication ready_ quality. For an editorial guide on _Graphical Excellence_,
+      see [here.](http://dx.doi.org/10/cg2g)
+- [ ] include instructions on how to run the notebook, include the required packages.
+      This could be an `environment.yml` file.
 
 The project notebook _could_:
 
