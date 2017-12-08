@@ -96,16 +96,16 @@ Instructions for Windows:
 The project work consists of three steps:
 
 1. Each student will make a Notebook project covering topics from day 1-3 with either
-
   - research, presenting data analysis and theory behind
     a manuscript or published paper. The Notebook should ideally be written
     such that it can act as supporting information (SI) for a journal.
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
-   
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
+  - **Deadline for project: 27/12**
 
-2. A peer-review process where each student reviews and comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements.
+2. A peer-review process where each student reviews and, in writing, comments on _two_ other notebooks. The review should be based on the criteria listed below and for each point, include specific suggestions for improvements.
+**Deadline for review: 3/1**
  
 3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your answer to the referee reports.
 
