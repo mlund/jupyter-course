@@ -31,15 +31,16 @@ Lectures are available as Notebooks on this site in the [lectures](lectures) fol
   - Other languages (bash, cython, R, etc.)
   - Online viewing, conversion, sharing, version control (Github, Zenodo, Binder, NBviewer)
   
-- Day 2. Plotting and visualization
-  - Plotting in Notebooks (`matplotlib`, `seaborn`, `root`)
+- Day 2. Numerical Methods, Plotting, and visualization
+  - Storage and manipulation of numerical arrays (`numpy`)
+  - Plotting in Notebooks (`matplotlib`, `seaborn`)
   - Arranging plots, customizing
   - Making plots publication ready
   - Exporting to vectorized file formats
-  - Interactive visialization (`ipywidgets`, `bokeh`)
+  - Interactive visialization (`ipywidgets`)
   
 - Day 3. Numerical methods and data science
-  - Numerical and scientific python (`numpy`, `scipy`)
+  - Scientific python (`scipy`)
   - Symbolic math (`sympy`)
   - Data parsing and import (csv, excel, json, pickle, pdf, custom files, etc.)
   - Working with large datasets (`pandas`)
