@@ -68,6 +68,7 @@ If you have little experience with Python or shell programming, the following tw
    source activate LUcompute
    jupyter nbextension enable rubberband/main
    jupyter nbextension enable exercise2/main
+   jupyter nbextension enable --py widgetsnbextension
    ```
 Instructions for Windows: 
 1. Install [miniconda3](https://conda.io/miniconda.html).
@@ -81,6 +82,7 @@ Instructions for Windows:
    activate LUcompute
    jupyter nbextension enable rubberband/main
    jupyter nbextension enable exercise2/main
+   jupyter nbextension enable --py widgetsnbextension
    ```
 [Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
