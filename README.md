@@ -15,9 +15,13 @@ While the course is based on Python, this is not a prerequisite, and many [other
 
 4 ECTS.
 
-## _Preliminary_ Program (final version available on Friday 8th of December)
+## Program
 
-_Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_. All dates from 10:15 to 15:00.
+_Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_.
+All dates from 10:15 to 15:00.
+
+Location: Sölvegatan 27 (The observatory), Department of Astronomy and Theoretical Physics,
+Rooms _Cassiopeia_ (Monday morning; Thursday afternoon; and all Friday) or _Andromeda_.
 
 The course consists of four full days: three with alternating lectures and hands-on exercises, and one day with project presentations.
 Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
