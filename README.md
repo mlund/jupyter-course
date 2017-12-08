@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mlund/jupyter-course/master)
+
 # Reproducible and Interactive Data Science
 
 ## Syllabus
