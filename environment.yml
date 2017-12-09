@@ -16,3 +16,5 @@ dependencies:
     - statsmodels=0.8
     - widgetsnbextension=3.0
     - jupyter_contrib_nbextensions=0.3
+    - requests=2.18
+    - openpyxl=2.4
