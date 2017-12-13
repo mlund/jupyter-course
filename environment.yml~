@@ -18,4 +18,3 @@ dependencies:
     - jupyter_contrib_nbextensions=0.3
     - requests=2.18
     - openpyxl=2.4
-    - seaborn=0.8
