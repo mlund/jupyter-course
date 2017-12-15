@@ -119,9 +119,8 @@ The project work consists of three steps:
 
 ### Notebook Requirements
 
-The project notebook _must_:
+The notebook must
 
-- [ ] contain name and contact information of the author
 - [ ] include rich documentation using Markdown, equations, tables, links, etc.
 - [ ] import or generate data. If generating, data should be exported to disk.
 - [ ] perform data operations using `numpy`, `scipy`, `pandas` or equivalent.
@@ -129,8 +128,9 @@ The project notebook _must_:
       see [here.](http://dx.doi.org/10/cg2g)
 - [ ] include instructions on how to run the notebook, include the required packages.
       This could be an `environment.yml` file.
+- [ ] be reproducible, i.e. someone elso should be able to redo the steps
 
-The project notebook _could_:
+Further, the notebook could
 
 - [ ] act as supporting information for an article
 - [ ] have an digital object identifier (DOI)
