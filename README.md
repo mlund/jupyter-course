@@ -8,7 +8,7 @@ The aim of this course is to introduce students to the [Jupyter Notebook](http:/
 is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more. Through the notebooks, research results and the underlying analysis can be transparently reproduced as well as shared.
 As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett._, see [here.](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb)
 
-During three days with alternating lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
+During three days with alternating video lectures and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
 While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can be used.
 
 ## Credits
@@ -17,14 +17,14 @@ While the course is based on Python, this is not a prerequisite, and many [other
 
 ## Program
 
-_Lectures on **December 11, 14, 15 (2017)** and project presentations: **January 5th, 2018**_.
+_Sessions on **December 3-5, 2018** and project presentations: **January 14-15, 2019**_.
 All dates from 10:15 to 15:00.
 
 **Location:** Sölvegatan 27 (The observatory), Department of Astronomy and Theoretical Physics,
 Rooms _Cassiopeia_ (Monday morning; Thursday afternoon; and all Friday) or _Andromeda_.
 
-The course consists of four full days: three with alternating lectures and hands-on exercises, and one
-day with project presentations. Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
+The course consists of four full days: three with alternating video lectures and hands-on exercises, and two
+days with project presentations. Lectures are available as Notebooks on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
   - Introduction and overview of Jupyter notebooks
@@ -49,7 +49,7 @@ day with project presentations. Lectures are available as Notebooks on this site
   - Data parsing and import (csv, excel, json, pickle, pdf, custom files, etc.)
   - Working with large datasets (`pandas`)
 
-- Day 4. Project presentations
+- Day 4 and 5. Project presentations
 
 ## Prerequisites
 
@@ -62,13 +62,14 @@ If you have little experience with Python or shell programming, the following tw
 - https://swcarpentry.github.io/python-novice-inflammation
 
 
-## Preparations before the first lecture
+## Preparations before the first session
 
-1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
+1. Watch the video lectures which will be provided here one week before course start.
+2. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
    [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
-2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
+3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
    (this github repository) and unzip.
-3. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+4. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in a terminal:
 
    ```bash
@@ -78,7 +79,9 @@ If you have little experience with Python or shell programming, the following tw
    jupyter nbextension enable exercise2/main
    jupyter nbextension enable --py widgetsnbextension
    ```
-Instructions for Windows: 
+
+Instructions for Windows:
+
 1. Install [miniconda3](https://conda.io/miniconda.html).
 2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository)
    and unzip.
