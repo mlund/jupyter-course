@@ -55,6 +55,7 @@ days with project presentations. Lectures are available as Notebooks on this sit
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
 - A laptop connected to the internet (eduroam, for example) and running Unix, MacOS, or Windows and with Anaconda installed, see below.
+- Ear phones for silently watching lectures during the sessions.
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
