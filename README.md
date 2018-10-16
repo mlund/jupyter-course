@@ -112,11 +112,11 @@ The project work consists of three steps:
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: 27/12**
+  - **Deadline for project: January 2, 2019**
 
 2. A peer-review process where each student reviews and, in writing, comments on _two_ other notebooks.
    The review should be based on the criteria listed below and for each point, include specific
-   suggestions for improvements. **Deadline for review: 3/1**
+   suggestions for improvements. **Deadline for review: January 8, 2019**
  
 3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your
    answer to the referee reports.
