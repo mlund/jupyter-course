@@ -20,8 +20,10 @@ While the course is based on Python, this is not a prerequisite, and many [other
 _Sessions on **December 3-5, 2018** and project presentations: **January 14-15, 2019**_.
 All dates from 10:15 to 15:00.
 
-**Location:** Sölvegatan 27 (The observatory), Department of Astronomy and Theoretical Physics,
-Rooms _Cassiopeia_ (Monday morning; Thursday afternoon; and all Friday) or _Andromeda_.
+**Location:** 
+- 3/12/2018: _lecture hall_, Fysicum, Sölvegatan 14
+- 4/12/2018: _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
+- 5/12/2018: _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
 The course consists of four full days: three with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, and two
 days with project presentations. The notebooks shown in the video lectures are available as Notebooks on this site in the [lectures](lectures) folder.
@@ -79,9 +81,6 @@ If you have little experience with Python or shell programming, the following tw
    ```bash
    conda env create -f environment.yml
    source activate LUcompute
-   jupyter nbextension enable rubberband/main
-   jupyter nbextension enable exercise2/main
-   jupyter nbextension enable --py widgetsnbextension
    ```
 
 Instructions for Windows:
@@ -98,9 +97,6 @@ Instructions for Windows:
    ```bash
    conda env create -f environment.yml
    activate LUcompute
-   jupyter nbextension enable rubberband/main
-   jupyter nbextension enable exercise2/main
-   jupyter nbextension enable --py widgetsnbextension
    ```
 [Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
@@ -141,3 +137,54 @@ Further, the notebook could
 
 - [ ] act as supporting information for an article
 - [ ] have an digital object identifier (DOI)
+
+## Troubleshooting
+
+If your notebook seems to have an issue on connection, similar to the lines below:
+
+   ```
+[E 12:18:57.001 NotebookApp] Uncaught exception in /api/kernels/5e16fa4b-3e35-4265-89b0-ab36bb0573f5/channels
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-5.0a1-py2.7-macosx-10.13-intel.egg/tornado/websocket.py", line 494, in _run_callback
+        result = callback(*args, **kwargs)
+      File "/Library/Python/2.7/site-packages/notebook-5.2.2-py2.7.egg/notebook/services/kernels/handlers.py", line 258, in open
+        super(ZMQChannelsHandler, self).open()
+      File "/Library/Python/2.7/site-packages/notebook-5.2.2-py2.7.egg/notebook/base/zmqhandlers.py", line 168, in open
+        self.send_ping, self.ping_interval, io_loop=loop,
+    TypeError: __init__() got an unexpected keyword argument 'io_loop'
+[I 12:18:58.021 NotebookApp] Adapting to protocol v5.1 for kernel 5e16fa4b-3e35-4265
+   ```
+You should either a) downgrade the package "tornado" b) change L178 of the file 
+
+```
+[your conda installation location]/miniconda3/envs/LUcompute/lib/python3.6/site-packages/notebook/base/zmqhandlers.py 
+```
+
+from 
+
+   ```
+                self.send_ping, self.ping_interval, io_loop=loop,
+   ```
+
+into
+
+   ```
+                self.send_ping, self.ping_interval,
+   ```
+
+
+https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got-an-unexpected-keyword-argument-io-l
+
+## External Resources
+
+This course will give you an overview on the Jupyter notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
+The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector.
+For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively use the Jupyter notebook to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
+A private company which is currently using Jupyter notebooks as the main tool for data analysis is the streaming service Netflix. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233).
+Moreover, in 2017 Jupyter received the ACM Software System Award, a prestigious award that it shares with projects such as Unix and the Web. 
+
+There are many freely available online resources to learn data science. 
+The best resource to find help with programming and scripting is
+[Stack Overflow](https://stackoverflow.com), which is a question and answer website curated by software developer communities. 
+An excellent book is "Python Data Science Handbook" by Jake VanderPlas which is freely available as Jupyter notebooks at [this Github page](https://github.com/jakevdp/PythonDataScienceHandbook). On the author's webpage, you can also find a list of excellent [talks, lectures, and tutorials](http://vanderplas.com/speaking.html) and a [blog](http://jakevdp.github.io/).
+Yet another useful resource is the podcast [Data Skeptic](https://dataskeptic.com) which features a collection of entertaining and educational mini lectures on data science as well as interviews with experts.
