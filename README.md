@@ -38,7 +38,7 @@ All dates from 10:15 to 15:00.
 - December 5, 2018: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
 The course consists of five full days: three with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, and two
-days with project presentations. The notebooks shown in the video lectures are available as Notebooks on this site in the [lectures](lectures) folder.
+days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
   - Introduction and overview of Jupyter notebooks
