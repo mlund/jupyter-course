@@ -25,7 +25,7 @@ All dates from 10:15 to 15:00.
 - 4/12/2018: _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 - 5/12/2018: _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
-The course consists of four full days: three with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, and two
+The course consists of five full days: three with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, and two
 days with project presentations. The notebooks shown in the video lectures are available as Notebooks on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
@@ -70,7 +70,7 @@ If you have little experience with Python or shell programming, the following tw
 
 ## Preparations before the first session
 
-1. Watch the [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d).
+1. Watch the [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d)
 2. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
    [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
 3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
@@ -85,13 +85,14 @@ If you have little experience with Python or shell programming, the following tw
 
 Instructions for Windows:
 
-1. Install [miniconda3](https://conda.io/miniconda.html).
-2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository)
+1. Watch the [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d)
+2. Install [miniconda3](https://conda.io/miniconda.html).
+3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository)
    and unzip.
-3. Open the `anaconda prompt` from the start menu.
-4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
+4. Open the `anaconda prompt` from the start menu.
+5. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
    and `dir` to list files in a folder).
-5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+6. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in the `anaconda prompt`:
 
    ```bash
@@ -186,5 +187,5 @@ Moreover, in 2017 Jupyter received the ACM Software System Award, a prestigious 
 There are many freely available online resources to learn data science. 
 The best resource to find help with programming and scripting is
 [Stack Overflow](https://stackoverflow.com), which is a question and answer website curated by software developer communities. 
-An excellent book is "Python Data Science Handbook" by Jake VanderPlas which is freely available as Jupyter notebooks at [this Github page](https://github.com/jakevdp/PythonDataScienceHandbook). On the author's webpage, you can also find a list of excellent [talks, lectures, and tutorials](http://vanderplas.com/speaking.html) and a [blog](http://jakevdp.github.io/).
-Yet another useful resource is the podcast [Data Skeptic](https://dataskeptic.com) which features a collection of entertaining and educational mini lectures on data science as well as interviews with experts.
+An excellent book is "Python Data Science Handbook" by Jake VanderPlas which is freely available as Jupyter notebooks at [this GitHub page](https://github.com/jakevdp/PythonDataScienceHandbook). On the author's webpage, you can also find a list of excellent [talks, lectures, and tutorials](http://vanderplas.com/speaking.html) and a [blog](http://jakevdp.github.io/).
+Yet another useful resource is the podcast [Data Skeptic](https://dataskeptic.com) which features a collection of entertaining and educational mini-lectures on data science as well as interviews with experts.
