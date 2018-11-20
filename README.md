@@ -2,6 +2,10 @@
 
 # Reproducible and Interactive Data Science
 
+1. [Syllabus](##Syllabus)
+2. [Credits](##Credits)
+3. [Program](##Program)
+
 ## Syllabus
 
 The aim of this course is to introduce students to the [Jupyter Notebook](http://jupyter.org) which
