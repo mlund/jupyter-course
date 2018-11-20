@@ -2,11 +2,11 @@
 
 # Reproducible and Interactive Data Science
 
-1. [Syllabus](##Syllabus)
-2. [Credits](##Credits)
-3. [Program](##Program)
+1. [Syllabus](#Syllabus)
+2. [Credits](#Credits)
+3. [Program](#Program)
 
-## Syllabus
+## Syllabus <a name="Syllabus"></a>
 
 The aim of this course is to introduce students to the [Jupyter Notebook](http://jupyter.org) which
 is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more. Through the notebooks, research results and the underlying analysis can be transparently reproduced as well as shared.
@@ -15,11 +15,11 @@ As an example of a Notebook on gravitational waves published in _Phys. Rev. Lett
 During three days with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analysis and produce publication ready plots.
 While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can be used.
 
-## Credits
+## Credits <a name="Credits"></a>
 
 4 ECTS.
 
-## Program
+## Program <a name="Program"></a>
 
 _Sessions on **December 3-5, 2018** and project presentations: **January 14-15, 2019**_.
 All dates from 10:15 to 15:00.
