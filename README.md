@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mlund/jupyter-course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/jupyter-course/master)
 
 # Reproducible and Interactive Data Science
 
@@ -21,9 +21,9 @@ _Sessions on **December 3-5, 2018** and project presentations: **January 14-15, 
 All dates from 10:15 to 15:00.
 
 **Location:** 
-- 3/12/2018: _lecture hall_, Fysicum, Sölvegatan 14
-- 4/12/2018: _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
-- 5/12/2018: _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
+- December 3, 2018: lecture hall, Fysicum, Sölvegatan 14
+- December 4, 2018: lecture hall _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
+- December 5, 2018: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
 The course consists of five full days: three with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, and two
 days with project presentations. The notebooks shown in the video lectures are available as Notebooks on this site in the [lectures](lectures) folder.
