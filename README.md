@@ -2,9 +2,14 @@
 
 # Reproducible and Interactive Data Science
 
-1. [Syllabus](#Syllabus)
-2. [Credits](#Credits)
-3. [Program](#Program)
+- [Syllabus](#Syllabus)
+- [Credits](#Credits)
+- [Program](#Program)
+- [Prerequisites](#Prerequisites)
+- [Preparation Before the First Session](#Preparation)
+- [Project Work](#Project)
+- [Troubleshooting](#Troubleshooting)
+- [External Resources](#External)
 
 <a name="Syllabus"></a>
 ## Syllabus 
@@ -63,6 +68,7 @@ days with project presentations. The notebooks shown in the video lectures are a
 
 - Day 4 and 5. Project presentations
 
+<a name="Prerequisites"></a>
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
@@ -74,8 +80,8 @@ If you have little experience with Python or shell programming, the following tw
 - https://swcarpentry.github.io/shell-novice
 - https://swcarpentry.github.io/python-novice-inflammation
 
-
-## Preparations before the first session
+<a name="Preparation"></a>
+## Preparation Before the First Session
 
 1. Watch the [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d)
 2. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
@@ -108,6 +114,7 @@ Instructions for Windows:
    ```
 [Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
+<a name="Project"></a>
 ## Project Work
 
 The project work consists of three steps:
@@ -146,6 +153,7 @@ Further, the notebook could
 - [ ] act as supporting information for an article
 - [ ] have an digital object identifier (DOI)
 
+<a name="Troubleshooting"></a>
 ## Troubleshooting
 
 If your notebook seems to have an issue on connection, similar to the lines below:
@@ -183,6 +191,7 @@ into
 
 https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got-an-unexpected-keyword-argument-io-l
 
+<a name="External"></a>
 ## External Resources
 
 This course will give you an overview on the Jupyter notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
