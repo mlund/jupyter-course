@@ -45,7 +45,7 @@ days with project presentations. The notebooks shown in the video lectures are a
   - Installation and package management (Anaconda, managing environments)
   - Navigating cells and iPython "Magic" commands
   - Online resources and getting help
-  - Documenting using Markdown: rich text, equations, images, tables, video.
+  - Documenting using Markdown: rich text, equations, images, tables, video
   - Other languages (bash, cython, R, etc.)
   - Online viewing, conversion, sharing, version control (Github, Zenodo, Binder, NBviewer)
   - Python built-in functions
