@@ -41,7 +41,7 @@ The course consists of five full days: three with alternating [video lectures](h
 days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
-  - Introduction and overview of Jupyter notebooks
+  - Introduction and overview of the Jupyter Notebook
   - Installation and package management (Anaconda, managing environments)
   - Navigating cells and iPython "Magic" commands
   - Online resources and getting help
@@ -194,9 +194,9 @@ https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got
 <a name="External"></a>
 ## External Resources
 
-This course will give you an overview on the Jupyter notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
+This course will give you an overview on the Jupyter Notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
 The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector.
-For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively use the Jupyter notebook to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
+For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively use Jupyter notebooks to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
 A private company which is currently using Jupyter notebooks as the main tool for data analysis is the streaming service Netflix. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233).
 Moreover, in 2017 Jupyter received the ACM Software System Award, a prestigious award that it shares with projects such as Unix and the Web. 
 
