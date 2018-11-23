@@ -148,24 +148,24 @@ The project work consists of three steps:
 This check list summarizes the minimum requirements for the Notebook project to be approved. It should be used as a reference for both the development of the Notebook and the peer-review process.
 
 - [ ] Documentation:
-  - [ ] include rich documentation using Markdown (optional: equations, tables, links, images or videos)
-  - [ ] include instructions on how to run the notebook 
-  - [ ] include the required packages in an `environment.yml` file
-  - [ ] be reproducible, _i.e._, someone elso should be able to redo the steps
+  - [ ] includes rich documentation using Markdown (optional: equations, tables, links, images or videos)
+  - [ ] includes instructions on how to run the notebook 
+  - [ ] includes the required packages in an `environment.yml` file
+  - [ ] is reproducible, _i.e._, someone elso should be able to redo the steps
 - [ ] Input/Output:
-  - [ ] use `pandas` to read large data sets or `numpy` to load data from text files
-  - [ ] use `pandas` to save to disk the processed or generated data
+  - [ ] uses `pandas` to read large data sets or `numpy` to load data from text files
+  - [ ] uses `pandas` to save to disk the processed or generated data
 - [ ] Scientific computing/data processing:
-  - [ ] perform numerical operations (`numpy`, `scipy`, `pandas`) or manipulate, group, and aggregate a data set (`pandas`) 
+  - [ ] performs numerical operations (`numpy`, `scipy`, `pandas`) or manipulates, groups, and aggregates a data set (`pandas`) 
 - [ ] Data visualization:
-  - [ ] include at least one composite plot (inset or multiple panels)
-  - [ ] produce _publication ready_ quality figures (see [here](http://dx.doi.org/10/cg2g) for an editorial guide on _Graphical Excellence_):
+  - [ ] includes at least one composite plot (inset or multiple panels)
+  - [ ] produces _publication ready_ quality figures (see [here](http://dx.doi.org/10/cg2g) for an editorial guide on _Graphical Excellence_):
     - [ ] the figures are 89 mm wide (single column) or 183 mm wide (double column)
     - [ ] the axes are labeled
     - [ ] the font sizes are sufficiently large
     - [ ] the figures are saved as rasterized images (300 dpi) or vector art
 - [ ] Version control, sharing, and archiving:
-  - [ ] archive your project and give it a digital object identifier (DOI)
+  - [ ] is archived in a repository with a digital object identifier (DOI)
 
 <a name="Troubleshooting"></a>
 ## Troubleshooting
