@@ -19,7 +19,7 @@ is an open-source software that allows you to create and share documents that co
 As an example, see [this Notebook](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb) on gravitational waves published in _Physical Review Letters_.
 
 During three days with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analyses and produce publication ready plots.
-While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can be used.
+While the course is based on Python, this is not a prerequisite, and many [other programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) can be used. The Jupyter Notebook supports dozens of programming languages and the name Jupyter itself stands for Julia, Python, and R, the main languages of data science.
 
 <a name="Credits"></a>
 ## Credits 
@@ -208,14 +208,13 @@ https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got
 <a name="External"></a>
 ## External Resources
 
-This course will give you an overview on the Jupyter Notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
-The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector.
-For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively uses Jupyter notebooks to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
-A private company which is currently using Jupyter notebooks as the main tool for data analysis is the streaming service Netflix. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233).
-Moreover, in 2017 Jupyter received the ACM Software System Award, a prestigious award that it shares with projects such as Unix and the Web. 
-
-There are many freely available online resources to learn data science. 
-The best resource to find help with programming and scripting is
-[Stack Overflow](https://stackoverflow.com), which is a question and answer website curated by software developer communities. 
-An excellent book is "Python Data Science Handbook" by Jake VanderPlas which is freely available as Jupyter notebooks at [this GitHub page](https://github.com/jakevdp/PythonDataScienceHandbook). On the author's webpage, you can also find a list of excellent [talks, lectures, and tutorials](http://vanderplas.com/speaking.html) and a [blog](http://jakevdp.github.io/).
-Yet another useful resource is the podcast [Data Skeptic](https://dataskeptic.com) which features a collection of entertaining and educational mini-lectures on data science as well as interviews with experts.
+- Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).<br><br>
+- The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector:
+  - these [tutorials](https://www.gw-openscience.org/tutorials/) show how the [LIGO/VIRGO collaboration] . (https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively uses Jupyter notebooks to communicate its   research;
+  - the streaming service Netflix currently uses Jupyter notebooks as the main tool for data analysis. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233);
+  - in 2017 Jupyter received the [ACM Software System Award](https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2), a prestigious award that it shares with projects such as Unix and the Web.<br><br>
+There are many freely available online resources to learn data science: 
+- the best resource to find help with programming and scripting is
+[Stack Overflow](https://stackoverflow.com), which is a question and answer website curated by software developer communities; 
+- an excellent book is "Python Data Science Handbook" by Jake VanderPlas which is freely available as Jupyter notebooks at [this GitHub page](https://github.com/jakevdp/PythonDataScienceHandbook). On the author's webpage, you can also find a list of excellent [talks, lectures, and tutorials](http://vanderplas.com/speaking.html) and a [blog](http://jakevdp.github.io/);
+- yet another useful resource is the podcast [Data Skeptic](https://dataskeptic.com) which features a collection of entertaining and educational mini-lectures on data science as well as interviews with experts.
