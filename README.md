@@ -19,7 +19,7 @@ is an open-source software that allows you to create and share documents that co
 As an example, see [this Notebook](http://nbviewer.jupyter.org/github/minrk/ligo-binder/blob/master/index.ipynb) on gravitational waves published in _Physical Review Letters_.
 
 During three days with alternating [video lectures](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d) and hands-on exercises, the participants will learn to construct well-documented, electronic notebooks that perform advanced data analyses and produce publication ready plots.
-While the course is based on Python, this is not a prerequisite since the Jupyter Notebook supports [dozens of programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels). The name Jupyter itself stands for Julia, Python, and R, the main languages of data science.
+While the course is based on Python, this is not a prerequisite since the Jupyter Notebook supports [many programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels). The name Jupyter itself stands for Julia, Python, and R, the main languages of data science.
 
 <a name="Credits"></a>
 ## Credits 
@@ -210,7 +210,7 @@ https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got
 
 - Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
 - The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector.
-  - These [tutorials](https://www.gw-openscience.org/tutorials/) show how the [LIGO/VIRGO collaboration(https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively uses Jupyter notebooks to communicate its   research.
+  - These [tutorials](https://www.gw-openscience.org/tutorials/) show how the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively uses Jupyter notebooks to communicate its   research.
   - The streaming service Netflix currently uses Jupyter notebooks as the main tool for data analysis. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233).
   - In 2017 Jupyter received the [ACM Software System Award](https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2), a prestigious award that it shares with projects such as Unix and the Web.
 - There are many freely available online resources to learn data science. 
