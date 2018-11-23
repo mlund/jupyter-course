@@ -68,7 +68,7 @@ days with project presentations. The notebooks shown in the video lectures are a
 - Day 3. Visualization and Interactivity
   - morning:
     - Non-linear least squares and global fits (`scipy`)
-    - Explore a Notebook in action in the search for new particles
+    - Explore a Notebook in action in _the search for new particles_
   - afternoon:
     - IPython widgets
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
