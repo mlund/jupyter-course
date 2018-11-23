@@ -33,7 +33,7 @@ _Sessions on **December 3-5, 2018** and project presentations: **January 14-15, 
 All dates from 10:15 to 15:00.
 
 **Location:** 
-- December 3, 2018: lecture hall, Fysicum, Sölvegatan 14
+- December 3, 2018: _Sal D L315_, Fysicum, Sölvegatan 14
 - December 4, 2018: lecture hall _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 - December 5, 2018: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
@@ -41,31 +41,39 @@ The course consists of five full days: three with alternating [video lectures](h
 days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
-  - Introduction and overview of the Jupyter Notebook
-  - Installation and package management (Anaconda, managing environments)
-  - Navigating cells and iPython "Magic" commands
-  - Online resources and getting help
-  - Documenting using Markdown: rich text, equations, images, tables, video
-  - Other languages (bash, cython, R, etc.)
-  - Online viewing, conversion, sharing, version control (Github, Zenodo, Binder, NBviewer)
-  - Python built-in functions
-  - Storage and manipulation of numerical arrays (`numpy`)
-  - Repeated operations and universal functions (`numpy` and `fortranmagic`)
+  - morning:
+    - Introduction and overview of the Jupyter Notebook (10')
+    - Introduction to project work and peer discussion (15')
+    - Installation and package management (Miniconda)
+    - [Binder](https://youtu.be/OK6M4w7LYIc) and [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+    - Navigating cells and IPython Magic commands 
+    - Online resources and getting help
+    - Documenting using Markdown: rich text, equations, images, tables, videos
+    - Cross-language interaction (bash, R, cython)
+  - afternoon: 
+    - Python [built-in functions](https://youtu.be/YpBUiEsTiEA)
+    - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`)
+    - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy` and `fortranmagic`)
   
 - Day 2. Data Science
-  - Data wrangling and data scraping (`pandas`)
-  - Pivot tables, aggregation, and grouping (`pandas`)
-  - Storage and manipulation of numerical arrays (`numpy`)
-  - Creating publication ready plots (`matplotlib`)
-  - Exporting to raster and vector formats (`matplotlib`)
-  - Plotting images, errorbars, histograms, and composite plots (`matplotlib`)
-  - Non-linear least squares (`scipy`)
+  - morning: 
+    - [Data structures](https://youtu.be/26ZioEwRw00) and [data wrangling](https://youtu.be/pHa3uuSZh6Y) (`pandas`)
+    - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)
+    - Creating [publication ready plots](https://youtu.be/B0iTbVySNtc) (`matplotlib`)
+  - afternoon:
+    - Plotting [images, errorbars, histograms, and composite plots](https://youtu.be/Xyobv9kGQxU) (`matplotlib`)
+    - Exporting figures to raster and vector formats (`matplotlib`)
+    - Plotting [categorical data](https://youtu.be/c0Bd8iWmHGw) (`matplotlib`,`pandas`,`seaborn`)
   
 - Day 3. Visualization and Interactivity
-  - Plotting categorical data (`matplotlib`,`pandas`,`seaborn`)
-  - Interactive plots (`bokeh`)
-  - Ipython widgets
-
+  - morning:
+    - Non-linear least squares and global fits (`scipy`)
+    - Explore a Notebook in action in the search for new particles
+  - afternoon:
+    - Interactive plots (`bokeh`)
+    - Ipython widgets
+    - Version control, sharing, and archiving (Github and [Zenodo](https://www.youtube.com/watch?v=IdLSGZAdhlQ))
+    
 - Day 4 and 5. Project presentations
 
 <a name="Prerequisites"></a>
