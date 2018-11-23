@@ -70,8 +70,8 @@ days with project presentations. The notebooks shown in the video lectures are a
     - Non-linear least squares and global fits (`scipy`)
     - Explore a Notebook in action in the search for new particles
   - afternoon:
-    - Interactive plots (`bokeh`)
-    - Ipython widgets
+    - IPython widgets
+    - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://www.youtube.com/watch?v=IdLSGZAdhlQ))
     
 - Day 4 and 5. Project presentations
@@ -80,7 +80,7 @@ days with project presentations. The notebooks shown in the video lectures are a
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
-- A laptop connected to the internet (eduroam, for example) and running Unix, MacOS, or Windows and with Anaconda installed, see below.
+- A laptop connected to the internet (eduroam, for example) and running Linux, MacOS, or Windows and with Anaconda installed, see below.
 - Earphones for silently watching lectures during the sessions.
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
@@ -127,39 +127,45 @@ Instructions for Windows:
 
 The project work consists of three steps:
 
-1. Each student will make a Notebook project covering topics from day 1-3 with either
+1. Each student will make a Notebook project covering topics from day 1–3 with either
   - research, presenting data analysis and theory behind
     a manuscript or published paper. The Notebook should ideally be written
     such that it can act as supporting information (SI) for a journal.
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: January 2, 2019**
+  - **Deadline for project: January 3, 2019**
 
 2. A peer-review process where each student reviews and, in writing, comments on _two_ other notebooks.
    The review should be based on the criteria listed below and for each point, include specific
-   suggestions for improvements. **Deadline for review: January 8, 2019**
+   suggestions for improvements. **Deadline for review: January 10, 2019**
  
-3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do include your
+3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do **include** your
    answer to the referee reports.
 
 ### Notebook Requirements
 
-The notebook must
+This check list summarizes the minimum requirements for the Notebook project to be approved. It should be used as a reference for both the development of the Notebook and the peer-review process.
 
-- [ ] include rich documentation using Markdown, equations, tables, links, etc.
-- [ ] import or generate data. If generating, data should be exported to disk.
-- [ ] perform data operations using `numpy`, `scipy`, `pandas` or equivalent.
-- [ ] create plots of _publication ready_ quality. For an editorial guide on _Graphical Excellence_,
-      see [here.](http://dx.doi.org/10/cg2g)
-- [ ] include instructions on how to run the notebook, include the required packages.
-      This could be an `environment.yml` file.
-- [ ] be reproducible, i.e. someone elso should be able to redo the steps
-
-Further, the notebook could
-
-- [ ] act as supporting information for an article
-- [ ] have an digital object identifier (DOI)
+- [ ] Documentation:
+  - [ ] include rich documentation using Markdown (optional: equations, tables, links, images or videos)
+  - [ ] include instructions on how to run the notebook 
+  - [ ] include the required packages in an `environment.yml` file
+  - [ ] be reproducible, _i.e._, someone elso should be able to redo the steps
+- [ ] Input/Output:
+  - [ ] use `pandas` to read large data sets or `numpy` to load data from text files
+  - [ ] use `pandas` to save to disk the processed or generated data
+- [ ] Scientific computing/data processing:
+  - [ ] perform numerical operations (`numpy`, `scipy`, `pandas`) or manipulate, group, and aggregate a data set (`pandas`) 
+- [ ] Data visualization:
+  - [ ] include at least one composite plot (inset or multiple panels)
+  - [ ] produce _publication ready_ quality figures (see [here](http://dx.doi.org/10/cg2g) for an editorial guide on _Graphical Excellence_):
+    - [ ] the figures are 89 mm wide (single column) or 183 mm wide (double column)
+    - [ ] the axes are labeled
+    - [ ] the font sizes are sufficiently large
+    - [ ] the figures are saved as rasterized images (300 dpi) or vector art
+- [ ] Version control, sharing, and archiving:
+  - [ ] archive your project and give it a digital object identifier (DOI)
 
 <a name="Troubleshooting"></a>
 ## Troubleshooting
@@ -204,7 +210,7 @@ https://stackoverflow.com/questions/48090119/jupyter-notebook-typeerror-init-got
 
 This course will give you an overview on the Jupyter Notebook and show you how you can use them to save a record of your workflow, share your research, and make your work repeatable. The Jupyter notebook supports dozens of programming languages. The name Jupyter itself stands for Julia, Python, and R, the main languages of data science. Cross-language interaction is a striking feature of Jupyter notebooks: The possibility to integrate multiple languages in the same notebook makes it feasible to exploit the best tools of the various languages in the different steps of data analysis. You can read more about it in [this post](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6).
 The Jupyter notebook is a very popular tool for working with data in academia as well as in the private sector.
-For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively use Jupyter notebooks to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
+For example, the [LIGO/VIRGO collaboration](https://www.nobelprize.org/prizes/physics/2017/press-release/) extensively uses Jupyter notebooks to communicate and show the reproducibility of their data analyses, as shown in these [tutorials](https://www.gw-openscience.org/tutorials/).
 A private company which is currently using Jupyter notebooks as the main tool for data analysis is the streaming service Netflix. For example, recommendation algorithms which suggest which movies or TV series to watch next are currently run on Jupyter notebooks. You can read more about it in [this post](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233).
 Moreover, in 2017 Jupyter received the ACM Software System Award, a prestigious award that it shares with projects such as Unix and the Web. 
 
