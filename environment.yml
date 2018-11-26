@@ -1,7 +1,6 @@
 name: LUcompute
 channels:
   - conda-forge
-  - nodefaults
 dependencies:
   - gcc
   - matplotlib=3.0
