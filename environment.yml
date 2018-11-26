@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - gcc=4.8.5=8
+  - gcc=4.8.5
   - matplotlib=3.0
   - python=3.7
   - bokeh=1.0
@@ -18,4 +18,5 @@ dependencies:
   - seaborn=0.9
   - pip
   - xlrd
+  - cryptography=2.3
 
