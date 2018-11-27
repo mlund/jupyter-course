@@ -42,7 +42,7 @@ days with project presentations. The notebooks shown in the video lectures are a
 
 - Day 1. Introduction
   - morning:
-    - Introduction and overview of the Jupyter Notebook (10')
+    - [Introduction](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-intro/0_z85if4is) and overview of the Jupyter Notebook (10')
     - Introduction to project work and peer discussion (15')
     - Installation and package management (Miniconda)
     - [Binder](https://youtu.be/OK6M4w7LYIc) and [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
@@ -68,10 +68,9 @@ days with project presentations. The notebooks shown in the video lectures are a
 - Day 3. Visualization and Interactivity
   - morning:
     - Non-linear least squares and global fits (`scipy`)
-    - Explore a Notebook in action in _the search for new particles_
-    <iframe src="https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_cn3qkq2u?iframeembed=true&playerId=kaltura_player_5bfdb20797a9e&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true" width="804" height="308" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" title="Kaltura Player"></iframe>
+    - Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) (lectures [1](https://luplay.education.lu.se/media/Jupyter-dijets_Lecture1/0_at93e1uq), [2](https://luplay.education.lu.se/media/Jupyter-dijets_Lecture2/0_zgqr70ur), [3](https://luplay.education.lu.se/media/Jupyter-dijets_Lecture3/0_4fkbg7xk), [4](https://luplay.education.lu.se/media/Jupyter-dijets_Lecture4/0_wrc8u7r0))
   - afternoon:
-    - IPython widgets
+    - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://www.youtube.com/watch?v=IdLSGZAdhlQ))
     
