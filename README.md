@@ -45,7 +45,7 @@ days with project presentations. The notebooks shown in the video lectures are a
     - [Introduction](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-intro/0_z85if4is) and overview of the Jupyter Notebook (10')
     - Introduction to project work and peer discussion (15')
     - Installation and package management (Miniconda)
-    - [Binder](https://youtu.be/OK6M4w7LYIc) and [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+    - [Binder](https://youtu.be/BqJyaejvVjQ?t=1315) and [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
     - Navigating cells and IPython Magic commands 
     - Online resources and getting help
     - Documenting using Markdown: rich text, equations, images, tables, videos
@@ -72,7 +72,7 @@ days with project presentations. The notebooks shown in the video lectures are a
   - afternoon:
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
-    - Version control, sharing, and archiving (Github and [Zenodo](https://www.youtube.com/watch?v=IdLSGZAdhlQ))
+    - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
     
 - Day 4 and 5. Project presentations
 
