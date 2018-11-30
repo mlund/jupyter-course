@@ -46,9 +46,9 @@ days with project presentations. The notebooks shown in the video lectures are a
     - Introduction to project work and peer discussion (15')
     - Installation and package management (Miniconda)
     - [Binder](https://youtu.be/BqJyaejvVjQ?t=1315) and [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
-    - Navigating cells and IPython Magic commands 
-    - Online resources and getting help
     - Documenting using Markdown: rich text, equations, images, tables, videos
+    - Navigating cells and IPython Magic commands 
+    - [Online resources](#External) and getting help
     - Cross-language interaction (bash, R, cython)
   - afternoon: 
     - Python [built-in functions](https://youtu.be/YpBUiEsTiEA)
