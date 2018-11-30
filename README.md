@@ -49,11 +49,11 @@ days with project presentations. The notebooks shown in the video lectures are a
     - Navigating cells, [online resources](#External), and getting help 
     - Documenting using Markdown: rich text, equations, images, tables, videos
     - IPython Magic commands 
-    - Cross-language interaction (bash, R, cython)
+    - Cross-language interaction (`bash`)
   - afternoon: 
     - Python [built-in functions](https://youtu.be/YpBUiEsTiEA)
     - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`)
-    - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy` and `fortranmagic`)
+    - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy`, `Cython`, and `fortranmagic`)
   
 - Day 2. Data Science
   - morning: 
@@ -67,7 +67,7 @@ days with project presentations. The notebooks shown in the video lectures are a
   
 - Day 3. Visualization and Interactivity
   - morning:
-    - Non-linear least squares and global fits (`scipy`)
+    - Non-linear least squares and global fits (`scipy`,`R`)
     - Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
   - afternoon:
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
