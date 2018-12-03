@@ -2,7 +2,7 @@ name: LUcompute
 channels:
   - conda-forge
 dependencies:
-  - gcc
+  - gcc # [osx]
   - matplotlib=3.0
   - python=3.7
   - bokeh=1.0
