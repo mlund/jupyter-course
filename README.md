@@ -135,6 +135,8 @@ The project work consists of three steps:
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
   - **Deadline for project: January 3, 2019**
+  
+2. Each student will upload its project on her/his GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC).
 
 2. A peer-review process where each student reviews and writes comments on _two_ other notebooks.
    The review should be based on the criteria listed below. For each point, include specific
@@ -148,10 +150,10 @@ The project work consists of three steps:
 This check list summarizes the minimum requirements for the Notebook project to be approved. It should be used as a reference for both the development of the Notebook and the peer-review process.
 
 - [ ] Documentation:
-  - [ ] includes rich documentation using Markdown (optional: equations, tables, links, images or videos)
+  - [ ] includes rich documentation using Markdown (equations, tables, links, images or videos)
   - [ ] includes instructions on how to run the notebook 
   - [ ] includes the required packages in an `environment.yml` file
-  - [ ] is reproducible, _i.e._, someone elso should be able to redo the steps
+  - [ ] is reproducible, _i.e._, someone else should be able to redo the steps
 - [ ] Input/Output:
   - [ ] uses `pandas` to read large data sets or `numpy` to load data from text files
   - [ ] uses `pandas` to save to disk the processed or generated data
