@@ -136,13 +136,13 @@ The project work consists of three steps:
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
   - **Deadline for project: January 3, 2019**
   
-2. Each student will upload its project on her/his GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC).
+2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC).
 
-2. A peer-review process where each student reviews and writes comments on _two_ other notebooks.
+3. A peer-review process where each student reviews and writes comments on _two_ other notebooks.
    The review should be based on the criteria listed below. For each point, include specific
    suggestions for improvements. **Deadline for review: January 10, 2019**
  
-3. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do **include** your
+4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do **include** your
    answer to the referee reports.
 
 ### Notebook Requirements
