@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - gcc # [osx]
-  - matplotlib=3.0
+  - matplotlib=3.0.2
   - python=3.7
   - bokeh=1.0
   - ipywidgets=7.4
@@ -19,7 +19,7 @@ dependencies:
   - xlrd
   - cryptography=2.3
   - simplegeneric=0.8
-  - r-car=3.0
-  - rpy2=2.9
+  - r-essentials
+  - rpy2
   - cython
-  - geopandas=0.4
+  - geopandas
