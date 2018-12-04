@@ -22,3 +22,4 @@ dependencies:
   - simplegeneric=0.8
   - r-essentials=3.4
   - rpy2=2.9
+  - cython
