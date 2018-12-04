@@ -1,7 +1,6 @@
 name: LUcompute
 channels:
   - conda-forge
-  - r
 dependencies:
   - gcc # [osx]
   - matplotlib=3.0
@@ -20,6 +19,7 @@ dependencies:
   - xlrd
   - cryptography=2.3
   - simplegeneric=0.8
-  - r-essentials=3.4
+  - r-car=3.0
   - rpy2=2.9
   - cython
+  - geopandas=0.4
