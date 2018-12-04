@@ -136,7 +136,10 @@ The project work consists of three steps:
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
   - **Deadline for project: January 3, 2019**
   
-2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC) (based on this [template](https://github.com/mlund/jupyter-course-projectwork)).
+2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC) 
+For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
+You can find your repository [here](https://github.com/teokem), press **cancel** if an error has occured during importing.<br>
+Notify your referees via email that your notebook is ready to be checked.
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
@@ -144,6 +147,8 @@ The project work consists of three steps:
  
 4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant and do **include** your
    answer to the referee reports.
+   
+5. Save your project when the course finished as we may delete it before the next course event.
 
 ### Notebook Requirements
 
