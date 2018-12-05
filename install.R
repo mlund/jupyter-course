@@ -1,1 +1,2 @@
-install.packages("essentials")
+install.packages("stats")
+install.packages("graphics")

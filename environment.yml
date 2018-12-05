@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - gcc # [osx]
-  - python=3.7
+  - python
   - matplotlib
   - bokeh
   - ipywidgets
