@@ -18,6 +18,5 @@ dependencies:
   - xlrd
   - cryptography
   - simplegeneric
-  - rpy2
   - cython
   - geopandas
