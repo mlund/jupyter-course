@@ -3,22 +3,22 @@ channels:
   - conda-forge
 dependencies:
   - gcc # [osx]
-  - matplotlib=3.0.2
+  - matplotlib
   - python=3.7
-  - bokeh=1.0
-  - ipywidgets=7.4
-  - jupyter=1.0
-  - notebook=5.7
-  - numpy=1.15
-  - openpyxl=2.5
-  - pandas=0.23
-  - pip=18.1
-  - scipy=1.1
-  - seaborn=0.9
+  - bokeh
+  - ipywidgets
+  - jupyter
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - scipy
+  - seaborn
   - pip
   - xlrd
-  - cryptography=2.3
-  - simplegeneric=0.8
+  - cryptography
+  - simplegeneric
   - r-essentials
   - rpy2
   - cython
