@@ -7,7 +7,6 @@ dependencies:
   - python=3.6
   - bokeh
   - ipywidgets
-  - jupyter
   - notebook
   - numpy
   - openpyxl
