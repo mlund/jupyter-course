@@ -146,7 +146,8 @@ Notify your referees via email that your notebook is ready to be checked.
    The review should be based on the criteria listed below. For each point, include specific
    suggestions for improvements. **Deadline for review: January 10, 2019**
  
-4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant. The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include your response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
+4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant.<br>
+The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
    
 5. Save your project when the course finished as we may delete it before the next course event.
 
