@@ -29,7 +29,7 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 <a name="Program"></a>
 ## Program 
 
-_Sessions on **December 3-5, 2018** from 10:15 to 15:00 and project presentations on **January 14–15, 2019**_ from 10:15 to 12:00.
+_Sessions_ on **December 3-5, 2018** from 10:15 to 15:00 and _project presentations_ on **January 14–15, 2019** from 10:15 to 12:00.
 
 **Location:** 
 - December 3, 2018: _Sal D L315_, Fysicum, Sölvegatan 14
