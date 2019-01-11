@@ -29,14 +29,14 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 <a name="Program"></a>
 ## Program 
 
-_Sessions on **December 3-5, 2018** and project presentations: **January 14, 2019**_.
-All dates from 10:15 to 15:00.
+_Sessions on **December 3-5, 2018** from 10:15 to 15:00 and project presentations on **January 14–15, 2019**_ from 10:15 to 12:00.
 
 **Location:** 
 - December 3, 2018: _Sal D L315_, Fysicum, Sölvegatan 14
 - December 4, 2018: lecture hall _HUB_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 - December 5, 2018: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 - January 14, 2019: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
+- January 15, 2019: lecture hall _Cassiopeia_, Department of Astronomy and Theoretical Physics, Sölvegatan 27
 
 The course consists of five full days: three with alternating video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises, and two
 days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
