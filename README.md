@@ -142,7 +142,7 @@ Notify your referees via email that your notebook is ready to be checked.
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **TBA**
+   suggestions for improvements. **Deadline for review: TBA**
  
 4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant.<br>
 The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
