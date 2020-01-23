@@ -32,9 +32,9 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 _Sessions_ on **March 10, 11 and 13, 2020** from 10:15 to 15:00 and _project presentations_ on **TBA** from 10:15 to 12:00.
 
 **Location:** 
-- March 10, 2020: LINXS, IDEON Building: Delta 5, Scheelevägen 19, 5th floor
-- March 11, 2020: LINXS, IDEON Building: Delta 5, Scheelevägen 19, 5th floor
-- March 13, 2020: LINXS, IDEON Building: Delta 5, Scheelevägen 19, 5th floor
+- March 10, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
+- March 11, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
+- March 13, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
 
 The course consists of five full days: three with alternating video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises, and two
 days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
@@ -133,7 +133,7 @@ The project work consists of three steps:
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: January 3, 2019**
+  - **Deadline for project: TBA**
   
 2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC) 
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
@@ -142,7 +142,7 @@ Notify your referees via email that your notebook is ready to be checked.
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **Deadline for review: January 10, 2019**
+   suggestions for improvements. **TBA**
  
 4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant.<br>
 The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
