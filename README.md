@@ -29,7 +29,7 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 <a name="Program"></a>
 ## Program 
 
-_Sessions_ on **March 10, 11 and 13, 2020** from 10:15 to 15:00 and _project presentations_ on **TBA** from 10:15 to 12:00.
+_Sessions_ on **March 9, 10 and 11 2020** from 10:15 to 15:00 and _project presentations_ on **TBA** from 10:15 to 12:00.
 
 **Location:** 
 - March 10, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
