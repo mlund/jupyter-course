@@ -95,12 +95,13 @@ If you have little experience with Python or shell programming, the following tw
    [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
 3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
    (this github repository) and unzip.
-4. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+4. Uncomment the line with "# - gcc # [osx]" in the file [`environment.yml`](/environment.yml).
+5. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in a terminal:
 
    ```bash
    conda env create -f environment.yml
-   source activate LUcompute
+   conda activate LUcompute
    ```
 
 Instructions for Windows:
@@ -112,15 +113,14 @@ Instructions for Windows:
 4. Open the `anaconda prompt` from the start menu.
 5. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
    and `dir` to list files in a folder).
-6. Delete the line with "- gcc # [osx]" from the file [`environment.yml`](/environment.yml).
-7. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+6. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in the `anaconda prompt`:
 
    ```bash
    conda env create -f environment.yml
    activate LUcompute
    ```
-[Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+[Documentation on conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
 <a name="Project"></a>
 ## Project Work
