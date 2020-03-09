@@ -112,7 +112,8 @@ Instructions for Windows:
 4. Open the `anaconda prompt` from the start menu.
 5. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
    and `dir` to list files in a folder).
-6. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
+6. Delete the line with "- gcc # [osx]" from the file [`environment.yml`](/environment.yml).
+7. Install and activate the `LUcompute` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in the `anaconda prompt`:
 
    ```bash
