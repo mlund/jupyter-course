@@ -136,7 +136,7 @@ The project work consists of three steps:
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
   - **Deadline for project: TBA**
   
-2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/pwsOX3wC) 
+2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/b7DO7_Ok) 
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
 You can find your repository [here](https://github.com/teokem), press **cancel** if an error has occured during importing.<br>
 Notify your referees via email that your notebook is ready to be checked.
