@@ -123,6 +123,14 @@ Instructions for Windows:
 [Documentation on conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
 <a name="Project"></a>
+
+## Getting a DOI via Zenodo
+
+Part of your project work will consist of adding a Digital Object Identifier [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) to your work, through Zenodo. 
+In order to do that, you should watch the videos mentioned in "day 3": 
+    - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
+The easiest and preferred way to do it is by connecting your Github account to Zenodo first, enabling the repository to be seen by Zenodo, then making a tag in GitHub, following the instructions [here](https://guides.github.com/activities/citable-code/).  
+
 ## Project Work
 
 The project work consists of three steps:
@@ -134,7 +142,7 @@ The project work consists of three steps:
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: TBA**
+  - **Deadline for project: April 1st**
   
 2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/b7DO7_Ok) 
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
@@ -143,12 +151,14 @@ Notify your referees via email that your notebook is ready to be checked.
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **Deadline for review: TBA**
+   suggestions for improvements. **Deadline for review: April 8th**
+   The deadline for implementing the reviews and answering the GitHub issues is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
  
-4. Notebook presentation to the class (day 4). Maximum 10 minutes per participant.<br>
+4. Notebook presentation to the class (remote on Zoom, days to be chosen). Maximum 10 minutes per participant.<br>
+This is optional but it is part of the course, so if you don't do this you should detail the information below in the README.md of your GitHub repository. 
 The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
    
-5. Save your project when the course has finished as we may delete it before the next course event.
+6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
 ### Notebook Requirements
 
