@@ -155,9 +155,11 @@ The presentations shall serve the purpose to briefly show the workflow of the No
 This check list summarizes the minimum requirements for the Notebook project to be approved. It should be used as a reference for both the development of the Notebook and the peer-review process.
 
 - [ ] Documentation:
-  - [ ] includes rich documentation using Markdown (equations, tables, links, images or videos)
+  - [ ] title and abstract of the project (max 300 words)
   - [ ] includes instructions on how to run the notebook 
   - [ ] includes the required packages in an `environment.yml` file
+  - [ ] includes a brief explanation of the reason each package/library was used 
+  - [ ] includes rich documentation using Markdown (equations, tables, links, images or videos)
   - [ ] is reproducible, _i.e._, someone else should be able to redo the steps
 - [ ] Input/Output:
   - [ ] uses `pandas` to read large data sets or `numpy` to load data from text files
