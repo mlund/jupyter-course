@@ -8,6 +8,8 @@
 - [Prerequisites](#Prerequisites)
 - [Preparation Before the First Session](#Preparation)
 - [Project Work](#Project)
+- [Getting a DOI Via Zenodo](#Zenodo)
+- [Create and Export Conda Environments](#Environments)
 - [Troubleshooting](#Troubleshooting)
 - [External Resources](#External)
 
@@ -120,17 +122,9 @@ Instructions for Windows:
    conda env create -f environment.yml
    activate LUcompute
    ```
-[Documentation on conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+[Documentation on conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) 
 
 <a name="Project"></a>
-
-## Getting a DOI via Zenodo
-
-Part of your project work will consist of adding a Digital Object Identifier [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) to your work, through Zenodo. 
-In order to do that, you should watch the videos mentioned in "day 3": 
-    - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
-The easiest and preferred way to do it is by connecting your Github account to Zenodo first, enabling the repository to be seen by Zenodo, then making a tag in GitHub, following the instructions [here](https://guides.github.com/activities/citable-code/).  
-
 ## Project Work
 
 The project work consists of three steps:
@@ -185,6 +179,29 @@ This check list summarizes the minimum requirements for the Notebook project to 
     - [ ] the figures are saved as rasterized images (300 dpi) or vector art
 - [ ] Version control, sharing, and archiving:
   - [ ] is archived in a repository with a digital object identifier (DOI)
+  
+<a name="Zenodo"></a>
+## Getting a DOI via Zenodo
+
+Part of your project work will consist of adding a Digital Object Identifier [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) to your work, through Zenodo. 
+In order to do that, you should watch the videos mentioned in "day 3": 
+    - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
+The easiest and preferred way to do it is by connecting your Github account to Zenodo first, enabling the repository to be seen by Zenodo, then making a tag in GitHub, following the instructions [here](https://guides.github.com/activities/citable-code/).
+
+<a name="Environments"></a>
+## Create and Export Conda Environments
+
+The command to [create a new environemnt](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) with Python x.y is 
+```bash
+conda create --name myenv python=x.y
+```
+where `myenv` is a name of your choice for the new environment and x.y is a specific Python version (e.g. 2.7 or 3.6).
+After activating the environemnt (`conda activate myenv`), you can install all the other packages within the environment.
+`conda list` shows the list of packages installed in the environment.
+The command to [export the active environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment) `myenv` to an environment yml file (e.g. `myenv.yml`) is
+```bash
+conda env export > myenv.yml
+```
 
 <a name="Troubleshooting"></a>
 ## Troubleshooting
