@@ -155,7 +155,7 @@ This is optional but it is part of the course, so if you skip this, please make 
    
 6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
-<a name="Project"></a>
+<a name="Requirements"></a>
 ## Notebook Requirements
 
 This check list summarizes the minimum requirements for the Notebook project to be approved. It should be used as a reference for both the development of the Notebook and the peer-review process.
