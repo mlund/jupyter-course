@@ -146,11 +146,11 @@ Notify your referees via email that your notebook is ready to be checked.
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
    suggestions for improvements. **Deadline for review: April 8th**
-   The deadline for implementing the reviews and answering the GitHub issues is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
+   The deadline for implementing the reviews and __answering the GitHub issues__ is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
  
 4. Notebook presentation to the class (remote on Zoom, days to be chosen). Maximum 10 minutes per participant.<br>
-This is optional but it is part of the course, so if you don't do this you should detail the information below in the README.md of your GitHub repository. 
-The presentations shall serve the purpose to briefly show the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
+The presentations shall serve the purpose of briefly showing the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
+This is optional but it is part of the course, so if you skip this, please make sure to include the response to the reviewers' comments and to highlight the most interesting, original, or advanced features of your Notebook in the README.md of your GitHub repository.
    
 6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
