@@ -146,7 +146,7 @@ Notify your referees via email that your notebook is ready to be checked.
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **Deadline for review: April 8th**
+   suggestions for improvements. **Deadline for review: April 8th.** <br>
    The deadline for implementing the reviews and __answering the GitHub issues__ is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
  
 4. Notebook presentation to the class (remote on Zoom, days to be chosen). Maximum 10 minutes per participant.<br>
