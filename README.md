@@ -36,11 +36,11 @@ Workload equivalent to one working week (5 full-time days) for going through the
 
 The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
 
-The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to hold 
+The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can.  
 
 _Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 
 
-_Q&A Sessions with teachers_ on **March 23, 24, 25 and 26, 2021** from 10:15 to 12:00 
+_Q&A Sessions with teachers_ on **March 23, 24, 25 and 26 2021** from 10:15 to 12:00 
 
 _COMPUTE Seminar related to the course_ TBC
 
@@ -54,7 +54,7 @@ The course will be fully virtual, on Zoom, in this room: https://lu-se.zoom.us/j
 
 The course consists of a taught component with alternating video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises. All notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
-The topics a student working full-time on this course (recommended) are expected to cover are below. Due to a reduced number of teachers and helpers this year, answering questions via e-mail is only guaranteed on a best-effort basis and with no expectation of a quick answer. So, the recommendation is to follow the tutorials in the afternoons of March 22 (Day 1)...March 25 (Day 4) and ask questions in the Q&A answers the day after. 
+The topics a student working full-time on this course (recommended) are expected to cover are below. Due to a reduced number of teachers and helpers this year, answering questions via e-mail is only guaranteed on a best-effort basis and with no expectation of a quick answer. So, the recommendation is to follow the tutorials in the afternoons of March 22 (Day 1)...March 24 (Day 3) and ask questions in the Q&A answers the day after. We also have one extra Q&A day on Friday for extra questions, and if you are done with the course you can start on the project. 
 
 - Day 1. Introduction
     - [Introduction](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-intro/0_z85if4is) and overview of the Jupyter Notebook (10')
@@ -65,17 +65,14 @@ The topics a student working full-time on this course (recommended) are expected
     - Documenting using Markdown: rich text, equations, images, tables, videos
     - IPython Magic commands 
     - Cross-language interaction (`bash`)
-    
-- Day 2. Python and Data Science
-    
     - Python [built-in functions](https://youtu.be/YpBUiEsTiEA)
-    - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`)
+    - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`) 
+    
+- Day 2. Python and Data Science, Plotting
+
     - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy`, `Cython`, and `fortranmagic`)
     - [Data structures](https://youtu.be/26ZioEwRw00) and [data wrangling](https://youtu.be/pHa3uuSZh6Y) (`pandas`)
-    - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)
-    
-- Day 3. Plotting 
-    
+    - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)    
     - Creating [publication ready plots](https://youtu.be/B0iTbVySNtc) (`matplotlib`)
     - Plotting [images, errorbars, histograms, and composite plots](https://youtu.be/Xyobv9kGQxU) (`matplotlib`)
     - Exporting figures to raster and vector formats (`matplotlib`)
