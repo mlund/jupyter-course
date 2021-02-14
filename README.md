@@ -39,7 +39,9 @@ The course is held in "flipped classroom" mode: after the first introductory and
 The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to hold 
 
 _Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 
+
 _Q&A Sessions with teachers_ on **March 23, 24, 25 and 26, 2021** from 10:15 to 12:00 
+
 _COMPUTE Seminar related to the course_ TBC
 
 **Zoom coordinates:** 
