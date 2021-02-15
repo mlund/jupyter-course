@@ -29,21 +29,34 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 
 4 ECTS.
 
+Workload equivalent to one working week (5 full-time days) for going through the course and seminars (1.5 hp), one working week to complete the individual project and implementation of corrections (1.5 hp), and 2.5 working days for the peer-review of other students project (0.5 hp).  
+
+<a name="Logistics"></a>
+## Logistics 
+
+The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
+
+The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can.  
+
+_Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 
+
+_Q&A Sessions with teachers_ on **March 23, 24, 25 and 26 2021** from 10:15 to 12:00 
+
+_COMPUTE Seminar related to the course_ TBC
+
+**Zoom coordinates:** 
+
+The course will be fully virtual, on Zoom, in this room: https://lu-se.zoom.us/j/63285464853?pwd=TnJyMWhEZWFsN2ZHUmFySWNxa1hpdz09
+(Meeting ID: 632 8546 4853, Password: COMPUTE). 
+
 <a name="Program"></a>
 ## Program 
 
-_Sessions_ on **March 9, 10 and 11 2020** from 10:15 to 15:00 and _project presentations_ on **TBA** from 10:15 to 12:00.
+The course consists of a taught component with alternating video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises. All notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
-**Location:** 
-- March 9, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
-- March 10, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
-- March 11, 2020: LINXS, IDEON Building Delta 5, Scheelevägen 19 (5th floor)
-
-The course consists of five full days: three with alternating video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises, and two
-days with project presentations. The notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
+The topics a student working full-time on this course (recommended) are expected to cover are below. Due to a reduced number of teachers and helpers this year, answering questions via e-mail is only guaranteed on a best-effort basis and with no expectation of a quick answer. So, the recommendation is to follow the tutorials in the afternoons of March 22 (Day 1)...March 24 (Day 3) and ask questions in the Q&A answers the day after. We also have one extra Q&A day on Friday for extra questions, and if you are done with the course you can start on the project. 
 
 - Day 1. Introduction
-  - morning:
     - [Introduction](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-intro/0_z85if4is) and overview of the Jupyter Notebook (10')
     - Introduction to project work and peer discussion (15')
     - Installation and package management (Miniconda)
@@ -52,38 +65,32 @@ days with project presentations. The notebooks shown in the video lectures are a
     - Documenting using Markdown: rich text, equations, images, tables, videos
     - IPython Magic commands 
     - Cross-language interaction (`bash`)
-  - afternoon: 
     - Python [built-in functions](https://youtu.be/YpBUiEsTiEA)
-    - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`)
+    - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`) 
+    
+- Day 2. Python and Data Science, Plotting
+
     - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy`, `Cython`, and `fortranmagic`)
-  
-- Day 2. Data Science
-  - morning: 
     - [Data structures](https://youtu.be/26ZioEwRw00) and [data wrangling](https://youtu.be/pHa3uuSZh6Y) (`pandas`)
-    - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)
+    - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)    
     - Creating [publication ready plots](https://youtu.be/B0iTbVySNtc) (`matplotlib`)
-  - afternoon:
     - Plotting [images, errorbars, histograms, and composite plots](https://youtu.be/Xyobv9kGQxU) (`matplotlib`)
     - Exporting figures to raster and vector formats (`matplotlib`)
     - Plotting [categorical data](https://youtu.be/c0Bd8iWmHGw) (`matplotlib`,`pandas`,`seaborn`)
   
-- Day 3. Visualization and Interactivity
-  - morning:
+- Day 4. Visualization and Interactivity
     - Nonlinear least-squares (`scipy`, `R`, and `rpy2`)
     - Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
-  - afternoon:
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
     
-- Day 4 and 5. Project presentations
-
 <a name="Prerequisites"></a>
 ## Prerequisites
 
 - No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
 - A laptop connected to the internet (eduroam, for example) and running Linux, MacOS, or Windows and with Anaconda installed, see below.
-- Earphones for silently watching lectures during the sessions.
+- Earphones for watching lectures in your own time / re-watching them during the sessions (we will also provide breakout rooms).
 
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
@@ -91,6 +98,7 @@ If you have little experience with Python or shell programming, the following tw
 - https://swcarpentry.github.io/python-novice-inflammation
 
 <a name="Preparation"></a>
+
 ## Preparation Before the First Session
 
 1. Watch the video lectures ([Intro & Widgets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_vujap4by?iframeembed=true&playerId=kaltura_player_5bfdb69292c20&flashvars[playlistAPI.kpl0Id]=0_nc717bpa&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS dijets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
@@ -130,28 +138,26 @@ Instructions for Windows:
 
 The project work consists of three steps:
 
-1. Each student will make a Notebook project covering topics from day 1–3 with either:
+1. Each student will make a Notebook project covering topics from day 1–4 with either:
   - research, presenting data analysis and theory behind
     a manuscript or published paper. The Notebook should ideally be written
     such that it can act as supporting information (SI) for a journal.
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: April 1st**
+  - **Deadline for project: April 15th**
   
-2. Each student will upload her/his project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/b7DO7_Ok) 
-For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
-You can find your repository [here](https://github.com/teokem), press **cancel** if an error has occured during importing.<br>
-Notify your referees via email that your notebook is ready to be checked.
+2. Each student will upload their project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/b7DO7_Ok) 
+For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit). Details and repositories will be made available at the end of the course. 
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
    The review should be based on the criteria listed below. For each point, include specific
    suggestions for improvements. **Deadline for review: April 8th.** <br>
    The deadline for implementing the reviews and __answering the GitHub issues__ is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
  
-4. Notebook presentation to the class (remote on Zoom, days to be chosen). Maximum 10 minutes per participant.<br>
-The presentations shall serve the purpose of briefly showing the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
-This is optional but it is part of the course, so if you skip this, please make sure to include the response to the reviewers' comments and to highlight the most interesting, original, or advanced features of your Notebook in the README.md of your GitHub repository.
+4. Optional / can be skipped in favour of a text file with answers to comments: Notebook presentation to the class (remote on Zoom, days to be organized with your peer-reviewers). Maximum 10 minutes per participant.<br>
+The presentations can serve the purpose of briefly showing the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
+This is optional but it is an important part of the course, so if you skip this, please make sure to include the response to the reviewers' comments and to highlight the most interesting, original, or advanced features of your Notebook in the README.md of your GitHub repository.
    
 6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
