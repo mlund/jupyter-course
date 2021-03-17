@@ -78,7 +78,7 @@ The topics a student working full-time on this course (recommended) are expected
     - Exporting figures to raster and vector formats (`matplotlib`)
     - Plotting [categorical data](https://youtu.be/c0Bd8iWmHGw) (`matplotlib`,`pandas`,`seaborn`)
   
-- Day 4. Visualization and Interactivity
+- Day 3. Visualization and Interactivity
     - Nonlinear least-squares (`scipy`, `R`, and `rpy2`)
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
