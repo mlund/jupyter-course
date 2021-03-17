@@ -151,15 +151,11 @@ The project work consists of three steps:
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit). Details and repositories will be made available at the end of the course. 
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
-   The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **Deadline for review: April 8th.** <br>
-   The deadline for implementing the reviews and __answering the GitHub issues__ is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
- 
-4. Optional / can be skipped in favour of a text file with answers to comments: Notebook presentation to the class (remote on Zoom, days to be organized with your peer-reviewers). Maximum 10 minutes per participant.<br>
-The presentations can serve the purpose of briefly showing the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
-This is optional but it is an important part of the course, so if you skip this, please make sure to include the response to the reviewers' comments and to highlight the most interesting, original, or advanced features of your Notebook in the README.md of your GitHub repository.
+   The review should be based on the criteria listed below. For each point, include specific suggestions for improvements. The teachers can also add feedback on how to improve the notebook. **Deadline for review: April 30th.** <br> 
    
-6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
+4. The deadline for implementing the reviewer comments on your notebook and __answering the GitHub issues__ is **May 15th**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. You will have to also add (to your Github repository) a text file that explains what changes you've made, and why. This process simulates a peer-review for scientific papers, so you're ready 
+   
+5. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
 <a name="Requirements"></a>
 ## Notebook Requirements
