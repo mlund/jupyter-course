@@ -36,18 +36,19 @@ Workload equivalent to one working week (5 full-time days) for going through the
 
 The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
 
-The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can.  
+The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can. In general, the teachers will be present most of the time for questions as you are going through the material. 
 
-_Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 
+_Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 (with a break for preparing lunch)
 
 _Q&A Sessions with teachers_ on **March 23, 24, 25 and 26 2021** from 10:15 to 12:00 
 
-_COMPUTE Seminar related to the course_ TBC
+_COMPUTE Lunch Seminar related to the course_ on **March 22, 2021** from 12:00 to 13:00 on "The Turing Way" by Sarah Gibson, register ([https://www.compile.lu.se/events/?evenemang=compute-seminar-sarah-gibson-turing-way-reproducible-research-and-beyond] here)
+
+_Hands-on tutorial on running your notebook on Binder_ by Sarah Gibson on **March 26, 2021** from 12:00 to 13:00
 
 **Zoom coordinates:** 
 
-The course will be fully virtual, on Zoom, in this room: https://lu-se.zoom.us/j/63285464853?pwd=TnJyMWhEZWFsN2ZHUmFySWNxa1hpdz09
-(Meeting ID: 632 8546 4853, Password: COMPUTE). 
+The course will be fully virtual, on Zoom, and the Zoom room that will be sent to the registered participants. 
 
 <a name="Program"></a>
 ## Program 
@@ -78,12 +79,12 @@ The topics a student working full-time on this course (recommended) are expected
     - Exporting figures to raster and vector formats (`matplotlib`)
     - Plotting [categorical data](https://youtu.be/c0Bd8iWmHGw) (`matplotlib`,`pandas`,`seaborn`)
   
-- Day 4. Visualization and Interactivity
+- Day 3. Visualization and Interactivity
     - Nonlinear least-squares (`scipy`, `R`, and `rpy2`)
-    - Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
+    - [full videos] Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
     
 <a name="Prerequisites"></a>
 ## Prerequisites
@@ -151,15 +152,11 @@ The project work consists of three steps:
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit). Details and repositories will be made available at the end of the course. 
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
-   The review should be based on the criteria listed below. For each point, include specific
-   suggestions for improvements. **Deadline for review: April 8th.** <br>
-   The deadline for implementing the reviews and __answering the GitHub issues__ is **April 22nd**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. 
- 
-4. Optional / can be skipped in favour of a text file with answers to comments: Notebook presentation to the class (remote on Zoom, days to be organized with your peer-reviewers). Maximum 10 minutes per participant.<br>
-The presentations can serve the purpose of briefly showing the workflow of the Notebook. Include the response to the reviewers' comments and highlight the most interesting, original, or advanced features of your Notebook (_e.g._ the use of a particular library, a certain composite plot, a method to manage references or implement interactivity, or any other feature that you found particularly useful and would like to share).
-This is optional but it is an important part of the course, so if you skip this, please make sure to include the response to the reviewers' comments and to highlight the most interesting, original, or advanced features of your Notebook in the README.md of your GitHub repository.
+   The review should be based on the criteria listed below. For each point, include specific suggestions for improvements. The teachers can also add feedback on how to improve the notebook. **Deadline for review: April 30th.** <br> 
    
-6. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
+4. The deadline for implementing the reviewer comments on your notebook and __answering the GitHub issues__ is **May 15th**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. You will have to also add (to your Github repository) a text file that explains what changes you've made, and why. This process simulates a peer-review for scientific papers, so you're ready 
+   
+5. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
 <a name="Requirements"></a>
 ## Notebook Requirements
