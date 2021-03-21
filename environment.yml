@@ -2,8 +2,7 @@ name: LUcompute
 channels:
   - conda-forge
 dependencies:
-#  - gcc # [osx]
-  - python
+  - python=3
   - matplotlib
   - bokeh
   - ipywidgets
