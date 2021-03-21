@@ -16,6 +16,7 @@ dependencies:
   - seaborn
   - pip
   - xlrd
+  - lxml
   - cryptography
   - simplegeneric
   - cython
