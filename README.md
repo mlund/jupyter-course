@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/jupyter-course/master)
 
+_Adapted from the PhD course of the same name and given within the COMPUTE research school_.
+
 # Reproducible and Interactive Data Science
 
 - [Syllabus](#Syllabus)
@@ -27,28 +29,7 @@ While the course is based on Python, this is not a prerequisite since the Jupyte
 <a name="Credits"></a>
 ## Credits 
 
-4 ECTS.
-
-Workload equivalent to one working week (5 full-time days) for going through the course and seminars (1.5 hp), one working week to complete the individual project and implementation of corrections (1.5 hp), and 2.5 working days for the peer-review of other students project (0.5 hp).  
-
-<a name="Logistics"></a>
-## Logistics 
-
-The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
-
-The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can. In general, the teachers will be present most of the time for questions as you are going through the material. 
-
-_Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 (with a break for preparing lunch)
-
-_Q&A Sessions with teachers_ on **March 23, 24, 25 and 26 2021** from 10:15 to 12:00 
-
-_COMPUTE Lunch Seminar related to the course_ on **March 22, 2021** from 12:00 to 13:00 on "The Turing Way" by Sarah Gibson, register ([https://www.compile.lu.se/events/?evenemang=compute-seminar-sarah-gibson-turing-way-reproducible-research-and-beyond] here)
-
-_Hands-on tutorial on running your notebook on Binder_ by Sarah Gibson on **March 26, 2021** from 12:00 to 13:00
-
-**Zoom coordinates:** 
-
-The course will be fully virtual, on Zoom, and the Zoom room that will be sent to the registered participants. 
+7.5 ECTS.
 
 <a name="Program"></a>
 ## Program 
@@ -85,7 +66,12 @@ The topics a student working full-time on this course (recommended) are expected
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
     - [full videos] Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
-    
+- Day 4. Error propagation
+
+- Day 5. Machine Learning
+
+- Day 6. Machine Learning
+
 <a name="Prerequisites"></a>
 ## Prerequisites
 
