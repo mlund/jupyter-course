@@ -35,20 +35,12 @@ Workload equivalent to one working week (5 full-time days) for going through the
 ## Logistics 
 
 The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
+The course will be run in hybrid mode: the students and some of the teachers will be in LINXS, near Ideon, and other teachers will be on Zoom, with the room coordinates to be sent to the participants. 
+There will also be a Discord server for discussion. 
 
-The virtual setting allows the Zoom room to be on for the entirety of the course, so if students want to keep discussing in the Zoom room when the teachers aren't there, they can. In general, the teachers will be present most of the time for questions as you are going through the material. 
+_Introductory sessions with teachers_ on **December 6, 2022** from 10:15 to 17:00 (with breaks for fika and lunch)
 
-_Introductory sessions with teachers_ on **March 22, 2021** from 10:15 to 12:00 (with a break for preparing lunch)
-
-_Q&A Sessions with teachers_ on **March 23, 24, 25 and 26 2021** from 10:15 to 12:00 
-
-_COMPUTE Lunch Seminar related to the course_ on **March 22, 2021** from 12:00 to 13:00 on "The Turing Way" by Sarah Gibson, register ([https://www.compile.lu.se/events/?evenemang=compute-seminar-sarah-gibson-turing-way-reproducible-research-and-beyond] here)
-
-_Hands-on tutorial on running your notebook on Binder_ by Sarah Gibson on **March 26, 2021** from 12:00 to 13:00
-
-**Zoom coordinates:** 
-
-The course will be fully virtual, on Zoom, and the Zoom room that will be sent to the registered participants. 
+_Q&A Sessions with teachers_ on **December 8 and 9 2022** from 10:15 to 17:00 
 
 <a name="Program"></a>
 ## Program 
@@ -84,7 +76,7 @@ The topics a student working full-time on this course (recommended) are expected
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
-    - [full videos] Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
+    - [full videos] To be updated: Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
     
 <a name="Prerequisites"></a>
 ## Prerequisites
@@ -146,15 +138,15 @@ The project work consists of three steps:
     Here's some [inspiration.](http://nbviewer.jupyter.org/github/jansoe/FUImaging/blob/master/examples/IOSsegmentation/regNMF.ipynb)
   - _or_ a Notebook presenting a text-book topic of choice and aimed at students.
     Here's some [inspiration](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb).
-  - **Deadline for project: April 15th**
+  - **Deadline for project: January 30th**
   
 2. Each student will upload their project on a public GitHub repository created through [GitHub Classroom](https://classroom.github.com/a/b7DO7_Ok) 
 For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit). Details and repositories will be made available at the end of the course. 
 
 3. A peer-review process where each student reviews and writes comments on _two_ other notebooks by creating issues on the respective GitHub repositories.
-   The review should be based on the criteria listed below. For each point, include specific suggestions for improvements. The teachers can also add feedback on how to improve the notebook. **Deadline for review: April 30th.** <br> 
+   The review should be based on the criteria listed below. For each point, include specific suggestions for improvements. The teachers can also add feedback on how to improve the notebook. **Deadline for review: February 15th.** <br> 
    
-4. The deadline for implementing the reviewer comments on your notebook and __answering the GitHub issues__ is **May 15th**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. You will have to also add (to your Github repository) a text file that explains what changes you've made, and why. This process simulates a peer-review for scientific papers, so you're ready 
+4. The deadline for implementing the reviewer comments on your notebook and __answering the GitHub issues__ is **March 15th**. At this point you should also have a Zenodo DOI for your project - add this as a badge to your repository, or as a link to your README. You will have to also add (to your Github repository) a text file that explains what changes you've made, and why. This process simulates a peer-review for scientific papers, so you're ready 
    
 5. Save your project to your own GitHub repository when the course has finished as we may delete it before the next course event.
 
