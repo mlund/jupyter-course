@@ -47,8 +47,8 @@ _Q&A Sessions with teachers_ on **December 8 and 9 2022** from 10:15 to 17:00
 <a name="Program"></a>
 ## Program 
 
-The course consists of a taught component with alternating video lectures ([Intro & Widgets](https://lu.instructuremedia.com/embed/f7dbab71-5fad-4308-a4d2-1dd0e7d7a3b7), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [
-ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true)) and hands-on exercises. All notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
+The course consists of a taught component with alternating video lectures ([Intro & Widgets](https://lu.instructuremedia.com/embed/f7dbab71-5fad-4308-a4d2-1dd0e7d7a3b7), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), 
+ATLAS Dijet (see below) and hands-on exercises. All notebooks shown in the video lectures are available on this site in the [lectures](lectures) folder.
 
 - Day 1. Introduction
     - [Introduction](https://lu.instructuremedia.com/embed/b76e3161-adcc-4c81-93df-3ba17e7c3a1e) and overview of the Jupyter Notebook (10')
@@ -63,6 +63,7 @@ ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_i
     - Storage and manipulation of [numerical arrays](https://youtu.be/2xJsNi3wk-s) (`numpy`) 
     
 - Day 2. Python and Data Science, Plotting
+    - (Live demo) Explore a Notebook in action: machine learning for image morphing
     - Repeated operations and [universal functions](https://youtu.be/469ukhzwEPg) (`numpy`, `Cython`, and `fortranmagic`)
     - [Data structures](https://youtu.be/26ZioEwRw00) and [data wrangling](https://youtu.be/pHa3uuSZh6Y) (`pandas`)
     - [Pivot tables](https://youtu.be/ODFpGo7UomA), [grouping and aggregating](https://youtu.be/oh8UijClQoE) (`pandas`)    
@@ -70,13 +71,13 @@ ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_i
     - Plotting [images, errorbars, histograms, and composite plots](https://youtu.be/Xyobv9kGQxU) (`matplotlib`)
     - Exporting figures to raster and vector formats (`matplotlib`)
     - Plotting [categorical data](https://youtu.be/c0Bd8iWmHGw) (`matplotlib`,`pandas`,`seaborn`)
-  
+    - 
 - Day 3. Visualization and Interactivity
     - Nonlinear least-squares (`scipy`, `R`, and `rpy2`)
     - [IPython widgets](https://luplay.education.lu.se/media/MinRK-Jupyter-COMPUTE2018-widgets/0_18ipnucr)
     - [Interactive plots](https://youtu.be/oLU5eIO7b84) (`bokeh`)
     - Version control, sharing, and archiving (Github and [Zenodo](https://youtu.be/IdLSGZAdhlQ?t=266))
-    - [full videos] Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
+    - [full videos] Explore a Notebook in action in [_the search for new particles_](https://github.com/urania277/jupyter-dijets/tree/jupyter-course-compute-2018) ([ATLAS Dijet 1](https://lu.instructuremedia.com/embed/1041f33b-af73-4ded-91d2-fc570d99d87f) ([ATLAS Dijet 2](https://lu.instructuremedia.com/embed/35624ec2-4073-4f05-9d2b-3a85c0cd8f24) ([ATLAS Dijet 3](https://lu.instructuremedia.com/embed/0d0ab8ab-6c84-4a57-b5f8-e80ed76c3a3e) ([ATLAS Dijet 4](https://lu.instructuremedia.com/embed/205f2870-3d0f-48f4-94fc-a7da72f3f7c6))
     
 <a name="Prerequisites"></a>
 ## Prerequisites
@@ -96,7 +97,7 @@ If you have little experience with Python or shell programming, the following tw
 
 1. Watch the video lectures ([Intro & Widgets](https://lu.instructuremedia.com/embed/f7dbab71-5fad-4308-a4d2-1dd0e7d7a3b7), 
 [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), 
-[ATLAS dijets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
+ATLAS dijets (see above, Day 3))
 2. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full
    [anaconda3](https://www.anaconda.com/download) enviroment on your laptop (the latter is **much** larger).
 3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material
@@ -112,7 +113,7 @@ If you have little experience with Python or shell programming, the following tw
 
 Instructions for Windows:
 
-1. Watch the video lectures ([Intro & Widgets](https://lu.instructuremedia.com/embed/f7dbab71-5fad-4308-a4d2-1dd0e7d7a3b7), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), [ATLAS dijets](https://api.kaltura.nordu.net/p/310/sp/31000/embedIframeJs/uiconf_id/23450585/partner_id/310/widget_id/0_hr5l2zj6?iframeembed=true&playerId=kaltura_player_5bfdb5d709908&flashvars[playlistAPI.kpl0Id]=0_pspvclw2&flashvars[playlistAPI.autoContinue]=true&flashvars[playlistAPI.autoInsert]=true&flashvars[ks]=&flashvars[localizationCode]=en&flashvars[imageDefaultDuration]=30&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true))
+1. Watch the video lectures ([Intro & Widgets](https://lu.instructuremedia.com/embed/f7dbab71-5fad-4308-a4d2-1dd0e7d7a3b7), [Libraries](https://www.youtube.com/playlist?list=PLto3nNV9nKZlXSWOAqmmn4J7csD4I6a2d), ATLAS dijets (see above, Day 3))
 2. Install [miniconda3](https://conda.io/miniconda.html).
 3. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) the course material (this github repository)
    and unzip.
