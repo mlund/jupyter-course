@@ -37,12 +37,12 @@ Workload equivalent to one working week (5 full-time days) for going through the
 ## Logistics 
 
 The course is held in "flipped classroom" mode: after the first introductory and get-to-know-each-other session, the students are supposed go through the videos themselves, and have Q&A sessions with teachers and helpers. 
-The course will be run in hybrid mode: the students and some of the teachers will be in LINXS, near Ideon, and other teachers will be on Zoom, with the room coordinates to be sent to the participants. 
-There will also be a Discord server for discussion. 
+All students and some of the teachers will be in LINXS, near Ideon, and other teachers will be on Zoom, with the room coordinates to be given to the participants.
+There is also a [Discord server](https://discord.gg/3w7R7vYA). 
 
 _Introductory sessions with teachers_ on **December 6, 2022** from 10:15 to 17:00 (with breaks for fika and lunch)
 
-_Q&A Sessions with teachers_ on **December 8 and 9 2022** from 10:15 to 17:00 
+_Q&A Sessions with teachers_ on **December 8 and 9, 2022** from 10:15 to 17:00. 
 
 <a name="Program"></a>
 ## Program 
