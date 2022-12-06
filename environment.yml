@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3
   - matplotlib
-  - bokeh
+  - bokeh=2
   - ipywidgets
   - notebook
   - numpy
